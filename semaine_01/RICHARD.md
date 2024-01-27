@@ -9,4 +9,4 @@ Au début, je voulais choisir le programme de design intérieur, mais les école
 
 À consulter ici, la deuxième saison d'une série de League of legends que j'attends à visionner:
 <https://www.youtube.com/watch?v=M9GeSbz9478&pp=ygURbGVhZ3VlIG9mIGxlZ2VuZHM%3D>
-J'aime bien le still artisitique de la série et le jeux League of legends.
+J'aime bien le style artisitique de la série et le jeux aussi qui se nomme League of legends.
