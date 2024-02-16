@@ -1,4 +1,4 @@
 # Jeremy Shaw Phase Shifting Index
 
-![photo](affiche_expo.jpeg)
+![photo](media/affiche_expo.jpeg)
 
