@@ -46,7 +46,7 @@ Lors de leur première entrée dans le bâtiment, le(s) visiteur(e)s sont gentim
 
 ![photo](media/sequence_glitch.jpg)
 
-![photo](media/sequence_neurons.jpg)
+![photo](media/sequence_neurons.png)
 
 
 ## Expérience personnelle
