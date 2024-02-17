@@ -4,7 +4,7 @@
 
 ## Description de l’oeuvre
 L’exposition de Jeremy Shaw a eu lieu au centre d’arts visuels, Fonderie Darling, qui se trouve à 745 Rue Ottawa à Montréal et a été réalisé en 2020. 
-Cette exposition avait comme but de montrer que parfois les gens cherchent à sortir de leur corps et à s’échapper de leurs réalités. Que parfois les humains cherchent à croire en quelque chose qui pourrait être au-delà d’eux ou qui est d’un état supérieur. Elles expliquaient le sentiment transcendant que les gens éprouvaient. Ceci se trouve d’être l’inspiration principale du projet, car l’artiste dit d’être fasciné par la croyance que peuvent posséder les gens. (Source : [Entreview de Jeremy Shaw au centre de la page](https://macm.org/expositions/jeremy-shaw/)) 
+Cette exposition avait comme but de montrer que parfois les gens cherchent à sortir de leur corps et à s’échapper de leurs réalités. Que parfois les humains cherchent à croire en quelque chose qui pourrait être au-delà d’eux ou qui est d’un état supérieur. Elles expliquaient le sentiment transcendant que les gens éprouvaient. Ceci se trouve d’être l’inspiration principale du projet, car l’artiste dit d’être fasciné par la croyance que peuvent posséder les gens. (Source : [Entrevue de Jeremy Shaw au centre de la page](https://macm.org/expositions/jeremy-shaw/)) 
 
 ![photo](media/moi_devant_edifice.png) ![photo](media/titre_oeuvre.jpg)
 
