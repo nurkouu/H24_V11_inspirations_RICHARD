@@ -16,7 +16,7 @@ C’est grâce à l’artiste et à la galerie d’arts contemporain de Montréa
 ## Types d’installation
 En même temps d’être une expérience immersive grâce aux équipements utilisés qui interpellent les gens à se connecter aux sentiments et expériences des acteurs et actrices, elle se trouvent d’être contemplative aussi. L’œuvre permet à l’audience de vivre un réel moment contemplatif et immersif en raison du temps et des efforts que les organisateurs ont mis pour le réaliser. Ils ont utilisé de nombreux types d’équipements comme les sept grands écrans et leurs bancs, les deux hauts-parleurs qui visaient chaque écran, les projecteurs, les câbles sur les grilles et les éclairages. Voici une image d'un point de vue de la salle: 
 
-![photo](media/experience_immersive_et_c.jpg)
+![photo](media/experience_immersive_et_contemplative.jpg)
 
 ## Mise en espace
 En entrant dans la pièce, la première chose que l’on remarque est le vaste espace de la pièce. Ensuite, ce serait les écrans et la façon dont ils sont placés. Chaque écran est séparé et espacé les uns des autres et sont accompagnés de leur propre banc. Voici un croquis et une image de la salle:
