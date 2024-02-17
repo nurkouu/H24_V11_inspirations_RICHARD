@@ -1,6 +1,6 @@
 # Jeremy Shaw Phase Shifting Index
 
-![photo](media/affiche_expo.jpeg)
+![photo](media/affiche_exposition.jpg)
 
 Voici le titre de l'oeuvre par l'artiste Jeremy Shaw.
 
