@@ -27,15 +27,25 @@ Bien sûr, puisque cette exposition s’est déroulée à l’étranger, cela si
 ## Éléments nécessaires à la mise en exposition
 Voici quelques photos des éléments nécessaires à la mise en exposition qui ont été nommés précédemment :
 
-Les écrans ![photo](media/vue_ecrans.jpeg)
+### Les écrans 
 
-Le banc![photo](media/banc.jpg)
+![photo](media/vue_ecrans.jpeg)
 
-L'haut-parleur et projecteur ![photo](media/technique_haut_parleur_et_projecteur.jpg)
+### Le banc 
 
-Les cables et grilles ![photo](media/technique_cables_et_grilles.jpg)
+![photo](media/banc.jpg)
 
-Les éclairages![photo](media/technique_eclairages.jpg)
+### L'haut-parleur et projecteur 
+
+![photo](media/technique_haut_parleur_et_projecteur.jpg)
+
+### Les cables et grilles
+
+![photo](media/technique_cables_et_grilles.jpg)
+
+### Les éclairages 
+
+![photo](media/technique_eclairages.jpg)
 
 ## Expérience vécue
 Lors de leur première entrée dans le bâtiment, le(s) visiteur(e)s sont gentiments guidé(e)s par l’intéracteur ou l’intéractrice. Ensuite, ils sont amenés dans la salle avant la salle principale et peuvent s’asseoir à leur guise sur les bancs tout en étant introduits à l’exposition. En entrant dans les détails, l’intéracteur ou l’intéractrice, parle du parcours de l’artiste, de ses œuvres et plus encore. Après cette partie informelle, les visteur(e)s sont par la suite invités à vivre l’expérience à leur tour. L’exposition se compose de différentes séquences. Au début, chaque écran raconte sa propre histoire, puis tout le monde commence à danser de la même manière et après cela, tous les écrans commencent à glitcher et les acteur(e)s commencent à apparaître sur différents écrans, ce qui se termine par ce qui semble être des neurones à l’écran avant de tourner en boucle et de recommencer du début. Voici quelques photos des différentes séquences de l’exposition :
