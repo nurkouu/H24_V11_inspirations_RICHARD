@@ -19,7 +19,7 @@ En même temps d’être une expérience immersive grâce aux équipements utili
 ## Mise en espace
 En entrant dans la pièce, la première chose que l’on remarque est le vaste espace de la pièce. Ensuite, ce serait les écrans et la façon dont ils sont placés. Chaque écran est séparé et espacé les uns des autres et sont accompagnés de leur propre banc. Voici un croquis et une image de la salle :
 
-![photo](media/croquis.jpg) ![photo](media/vue_de_la_piece.jpg)
+![photo](media/croquis.jpg) ![photo](media/vue_de_la_piece.JPG)
 
 ## Composantes et techniques
 Bien sûr, puisque cette exposition s’est déroulée à l’étranger, cela signifie que l’équipage a dû apporter tout son équipement avec lui. Il a fallu beaucoup de réflexion et de planification pour s’assurer que tout était prêt à partir. N’oublions pas que si quelque chose s’est mal passé, il est fort probable qu’ils aient pensé être prêts pour les sauvegardes. En d'autres termes, ils avaient certainement d’autres équipements pour remplacer ceux qui seraient manquants ou cassés ou quelle que soit la situation.
@@ -28,6 +28,10 @@ Bien sûr, puisque cette exposition s’est déroulée à l’étranger, cela si
 Voici quelques photos des éléments nécessaires à la mise en exposition qui ont été nommés précédemment :
 
 ![photo](media/vue_ecrans.jpeg)
+
+![photo](media/banc.jpg)
+
+![photo](media/technique_haut_parleur_et_projecteur.jpg)
 
 ![photo](media/.jpg)
 
