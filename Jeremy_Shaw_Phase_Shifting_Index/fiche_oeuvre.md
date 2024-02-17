@@ -3,23 +3,23 @@
 ![photo](media/affiche_exposition.jpg)
 
 ## Description de l’oeuvre
-L’exposition de Jeremy Shaw a eu lieu au centre d’arts visuels, Fonderie Darling, qui se trouve à 745 Rue Ottawa à Montréal et a été réalisé en 2020. 
-Cette exposition avait comme but de montrer que parfois les gens cherchent à sortir de leur corps et à s’échapper de leurs réalités. Que parfois les humains cherchent à croire en quelque chose qui pourrait être au-delà d’eux ou qui est d’un état supérieur. Elles expliquaient le sentiment transcendant que les gens éprouvaient. Ceci se trouve d’être l’inspiration principale du projet, car l’artiste dit d’être fasciné par la croyance que peuvent posséder les gens. (Source : [Entrevue de Jeremy Shaw au centre de la page](https://macm.org/expositions/jeremy-shaw/)) 
+L’exposition de Jeremy Shaw a eu lieu au centre d’arts visuels, Fonderie Darling, qui se trouve à 745 rue Ottawa à Montréal et a été réalisé en 2020. 
+Cette exposition avait pour but de montrer que parfois les gens cherchent à sortir de leur corps et à s’échapper de leurs réalités. Que parfois les humains cherchent à croire en quelque chose qui pourrait être au-delà d’eux ou qui est d’un état supérieur. Elles expliquaient le sentiment transcendant que les gens éprouvaient. Ceci se trouve d’être l’inspiration principale du projet, car l’artiste dit d’être fasciné par la croyance que peuvent posséder les gens. (Source : [Entrevue de Jeremy Shaw au centre de la page](https://macm.org/expositions/jeremy-shaw/)) 
 
 ![photo](media/moi_devant_edifice.png) ![photo](media/titre_oeuvre.jpg)
 
 ## Cartel
-C’est grâce à l’artiste et à la galerie d’arts contemporain de Montréal, Bradley Ertaskiran, qu’elle a été présentée avec succès dans de nombreux musées de différents pays tels que le Centre Pompidou à Paris, au MoMA PS1 à New York, au Schinkel Pavillon à Berlin et au MOCA à Toronto. (Source : [Site web de Bradley Ertaskiran](https://bradleyertaskiran.com/jeremy-shaw-representation/))
+C’est grâce à l’artiste et à la galerie d’arts contemporain de Montréal, Bradley Ertaskiran, qu’elle a été présenté avec succès dans de nombreux musées de différents pays tels que le Centre Pompidou à Paris, au MoMA PS1 à New York, au Schinkel Pavillon à Berlin et au MOCA à Toronto. (Source : [Site web de Bradley Ertaskiran](https://bradleyertaskiran.com/jeremy-shaw-representation/))
 
 ![photo](media/cartel.jpg)
 
 ## Types d’installation
-En même temps d’être une expérience immersive grâce aux équipements utilisés qui interpellent les gens à se connecter aux sentiments et expériences des acteurs et actrices, elle se trouvent d’être contemplative aussi. L’œuvre permet à l’audience de vivre un réel moment contemplatif et immersif en raison du temps et des efforts que les organisateurs ont mis pour le réaliser. Ils ont utilisé de nombreux types d’équipements comme les sept grands écrans et leurs bancs, les deux hauts-parleurs qui visaient chaque écran, les projecteurs, les câbles sur les grilles et les éclairages. Voici une image d'un point de vue de la salle: 
+En même temps d’être une expérience immersive grâce aux équipements utilisés qui interpellent les gens à se connecter aux sentiments et aux expériences des acteurs et actrices, l'exposition se trouve d’être contemplative aussi. L’œuvre permet à l’audience de vivre un réel moment contemplatif et immersif en raison du temps et des efforts que les organisateurs ont mis pour le réaliser. Ils ont utilisé de nombreux types d’équipements comme les sept grands écrans et leurs bancs, les deux hauts-parleurs qui visaient chaque écran, les projecteurs, les câbles sur les grilles et les éclairages. Voici une image d'un point de vue de la salle : 
 
 ![photo](media/experience_immersive_et_contemplative.jpg)
 
 ## Mise en espace
-En entrant dans la pièce, la première chose que l’on remarque est le vaste espace de la pièce. Ensuite, ce serait les écrans et la façon dont ils sont placés. Chaque écran est séparé et espacé les uns des autres et sont accompagnés de leur propre banc. Voici un croquis et une image de la salle:
+En entrant dans la pièce, la première chose que l’on remarque est le vaste espace de la pièce. Ensuite, ce serait les écrans et la façon dont ils sont placés. Chaque écran est séparé et espacé les uns des autres et sont accompagnés de leur propre banc. Voici un croquis et une image de la salle :
 
 ![photo](media/croquis.jpg) ![photo](media/vue_de_la_piece.JPG)
 
@@ -70,9 +70,9 @@ Lors de leur première entrée dans le bâtiment, le(s) visiteur(e)s sont gentim
 
 
 ## Expérience personnelle
-Pour être honnête, je n’étais pas du genre à visiter ce genre de musées, même si c’était pour le plaisir, mais avant même de connaître cette exposition, j’ai commencé à vouloir l’essayer et à avoir l’esprit ouvert à ce sujet. Alors quand j’ai appris qu’on allait aller en voir un, je me suis dit que j’allais avoir cette opportunité et j'allais en profiter. Et bien qu’au début, je pensais que la façon dont tout le monde se comportait était très bizarre, à la fin, j’ai vraiment apprécié l’expérience parce que je me suis sentie détendue et en fait, j'étais bien investies à comprendre ce que les acteurs et actrices disaient pendant leurs entrevues, même si je ne pouvais pas les comprendre. Même si je n'étais pas capable de lire chaque mot dans les sous-titres, j’ai eu l’impression de pouvoir distinguer un peu ce qu’ils ressentaient. 
+Pour être honnête, je n’étais pas du genre à visiter ce genre de musées, même si c’était pour le plaisir, mais avant même de connaître cette exposition, j’ai commencé à vouloir l’essayer et à avoir l’esprit ouvert à ce sujet. Alors quand j’ai appris qu’on allait aller en voir un, je me suis dit que j’allais avoir cette opportunité et j'allais en profiter. Et bien qu’au début, je pensais que la façon dont tout le monde se comportait était très bizarre, à la fin, j’ai vraiment apprécié l’expérience parce que je me suis sentie détendue et en fait, j'étais bien investie à comprendre ce que les acteurs et actrices disaient pendant leurs entrevues, même si je ne pouvais pas les comprendre. Même si je n'étais pas capable de lire chaque mot dans les sous-titres, j’ai eu l’impression de pouvoir distinguer un peu ce qu’ils ressentaient. 
 
-Ce que j’ai préféré de toute l’expérience, c’est d’entendre la musique s’accumuler puis finalement s’arrêter et ce qui était montré à l’écran était magnifique. De plus, avoir les lumières qui brillent comme les couleurs qui ont été montrées à l’écran vraiment a eu un impact sur ce que je vivais. Quelque chose que je changerais serait le clignotement des lumières pendant le segment unanime pour toutes les personnes à l’écran. La première fois que j’ai tout regardé, j’ai pensé que les lumières ne dureraient pas aussi longtemps. Je pense que c’était un peu trop au début, mais après avoir tout regardé pour la deuxième fois, ce n’était pas aussi mal que la première fois. Par contre dans l’ensemble, j’ai vraiment aimé y aller et vivre quelque chose si extraordinaire, car que je sais que je n’aurai pas toujours l’occasion.
+Ce que j’ai préféré de toute l’expérience, c’est d’entendre la musique s’accumuler puis finalement s’arrêter et ce qui était montré à l’écran était magnifique. De plus, avoir les lumières qui brillent comme les couleurs qui ont été montrées à l’écran vraiment a eu un impact sur ce que je vivais. Quelque chose que je changerais serait le clignotement des lumières pendant le segment unanime pour toutes les personnes à l’écran. La première fois que j’ai tout regardé, j’ai pensé que les lumières ne dureraient pas aussi longtemps. Je pense que c’était un peu trop au début, mais après avoir tout regardé pour la deuxième fois, ce n’était pas aussi mal que la première fois. Par contre dans l’ensemble, j’ai vraiment aimé y aller et vivre quelque chose si extraordinaire, car je sais que je n’aurai pas toujours cette occasion.
 
 # Références
 [MAC](https://macm.org/en/exhibitions/jeremy-shaw/)
