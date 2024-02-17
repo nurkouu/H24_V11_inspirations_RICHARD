@@ -33,7 +33,7 @@ Voici quelques photos des éléments nécessaires à la mise en exposition qui o
 
 ![photo](media/technique_haut_parleur_et_projecteur.jpg)
 
-![photo](media/technique_cable_et_grille.jpg)
+![photo](media/technique_cables_et_grilles.jpg)
 
 ![photo](media/technique_eclairage.jpg)
 
