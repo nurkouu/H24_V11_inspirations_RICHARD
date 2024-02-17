@@ -8,7 +8,7 @@ L’exposition de Jeremy Shaw a eu lieu au centre d’arts visuels, Fonderie Dar
 
 ![photo](media/moi_devant_edifice.png) ![photo](media/titre_oeuvre.jpg)
 
-Cette exposition avait comme but de montrer que parfois les gens cherchent à sortir de leur corps et à s’échapper de leurs réalités. Que parfois les humains cherchent à croire en quelque chose qui pourrait être au-delà d’eux ou qui est d’un état supérieur. Elles expliquaient le sentiment transcendant que les gens éprouvaient. Ceci se trouve d’être l’inspiration principale du projet, car l’artiste dit d’être fasciné par la croyance que peuvent posséder les gens. (source : [Interview de Jeremy Shaw](https://macm.org/expositions/jeremy-shaw/)) 
+Cette exposition avait comme but de montrer que parfois les gens cherchent à sortir de leur corps et à s’échapper de leurs réalités. Que parfois les humains cherchent à croire en quelque chose qui pourrait être au-delà d’eux ou qui est d’un état supérieur. Elles expliquaient le sentiment transcendant que les gens éprouvaient. Ceci se trouve d’être l’inspiration principale du projet, car l’artiste dit d’être fasciné par la croyance que peuvent posséder les gens. (Source : [Interview de Jeremy Shaw](https://macm.org/expositions/jeremy-shaw/)) 
 
 ## Cartel
 C’est grâce à l’artiste et à la galerie d’arts contemporain de Montréal, Bradley Ertaskiran, qu’elle a été présentée avec succès dans de nombreux musées de différents pays tels que le Centre Pompidou à Paris, au MoMA PS1 à New York, au Schinkel Pavillon à Berlin et au MOCA à Toronto. (Source : (https://bradleyertaskiran.com/jeremy-shaw-representation/))
