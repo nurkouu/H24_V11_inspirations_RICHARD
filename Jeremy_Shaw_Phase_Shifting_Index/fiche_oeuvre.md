@@ -27,7 +27,7 @@ Bien sûr, puisque cette exposition s’est déroulée à l’étranger, cela si
 ## Éléments nécessaires à la mise en exposition
 Voici quelques photos des éléments nécessaires à la mise en exposition qui ont été nommés précédemment :
 
-![Les écrans](media/vue_ecrans.jpeg) Les écrans
+ Les écrans ![Les écrans](media/vue_ecrans.jpeg)
 
 ![Le banc](media/banc.jpg)
 
