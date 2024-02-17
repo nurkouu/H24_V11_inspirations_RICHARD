@@ -42,7 +42,11 @@ Lors de leur première entrée dans le bâtiment, le(s) visiteur(e)s sont gentim
 
 ![photo](media/sequence_introductrice_zero_ones.jpg)
 
-![photo](media/.jpg)
+![photo](media/dance_zero_ones.jpg)
+
+![photo](media/sequence_glitch.jpg)
+
+![photo](media/sequence_neurons.jpg)
 
 
 ## Expérience personnelle
