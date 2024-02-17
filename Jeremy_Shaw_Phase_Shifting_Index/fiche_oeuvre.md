@@ -27,15 +27,15 @@ Bien sûr, puisque cette exposition s’est déroulée à l’étranger, cela si
 ## Éléments nécessaires à la mise en exposition
 Voici quelques photos des éléments nécessaires à la mise en exposition qui ont été nommés précédemment :
 
- Les écrans ![Les écrans](media/vue_ecrans.jpeg)
+Les écrans ![photo](media/vue_ecrans.jpeg)
 
-![Le banc](media/banc.jpg)
+Le banc ![photo](media/banc.jpg)
 
-![L'haut-parleur et projecteur](media/technique_haut_parleur_et_projecteur.jpg)
+L'haut-parleur et projecteur ![photo](media/technique_haut_parleur_et_projecteur.jpg)
 
-![Les cables et grilles](media/technique_cables_et_grilles.jpg)
+Les cables et grilles ![photo](media/technique_cables_et_grilles.jpg)
 
-![Les éclairages](media/technique_eclairage.jpg)
+Les éclairages ![photo](media/technique_eclairage.jpg)
 
 ## Expérience vécue
 Lors de leur première entrée dans le bâtiment, le(s) visiteur(e)s sont gentiments guidé(e)s par l’intéracteur ou l’intéractrice. Ensuite, ils sont amenés dans la salle avant la salle principale et peuvent s’asseoir à leur guise sur les bancs tout en étant introduits à l’exposition. En entrant dans les détails, l’intéracteur ou l’intéractrice, parle du parcours de l’artiste, de ses œuvres et plus encore. Après cette partie informelle, les visteur(e)s sont par la suite invités à vivre l’expérience à leur tour. L’exposition se compose de différentes séquences. Au début, chaque écran raconte sa propre histoire, puis tout le monde commence à danser de la même manière et après cela, tous les écrans commencent à glitcher et les acteur(e)s commencent à apparaître sur différents écrans, ce qui se termine par ce qui semble être des neurones à l’écran avant de tourner en boucle et de recommencer du début. Voici quelques photos des différentes séquences de l’exposition :
@@ -52,4 +52,4 @@ Lors de leur première entrée dans le bâtiment, le(s) visiteur(e)s sont gentim
 ## Expérience personnelle
 Pour être honnête, je n’étais pas du genre à visiter ce genre de musées, même si c’était pour le plaisir, mais avant même de connaître cette exposition, j’ai commencé à vouloir l’essayer et à avoir l’esprit ouvert à ce sujet. Alors quand j’ai appris qu’on allait aller en voir un, je me suis dit que j’allais avoir cette opportunité et j'allais en profiter. Et bien qu’au début, je pensais que la façon dont tout le monde se comportait était très bizarre, à la fin, j’ai vraiment apprécié l’expérience parce que je me suis sentie détendue et en fait, j'étais bien investies à comprendre ce que les acteurs et actrices disaient pendant leurs entrevues, même si je ne pouvais pas les comprendre. Même si je n'étais pas capable de lire chaque mot dans les sous-titres, j’ai eu l’impression de pouvoir distinguer un peu ce qu’ils ressentaient. 
 
-Ce que j’ai préféré de toute l’expérience, c’est d’entendre la musique s’accumuler puis finalement s’arrêter et ce qui était montré à l’écran était magnifique. De plus, avoir les lumières qui brillent comme les couleurs qui ont été montrées à l’écran vraiment a eu un impact sur ce que je vivais. Quelque chose que je changerais serait le clignotement des lumières pendant le segment unanime pour toutes les personnes à l’écran. La première fois que j’ai tout regardé, j’ai pensé que les lumières ne dureraient pas aussi longtemps. Je pense que c’était un peu trop au début, mais après avoir tout regardé pour la deuxième fois, ce n’était pas aussi mal que la première fois.
+Ce que j’ai préféré de toute l’expérience, c’est d’entendre la musique s’accumuler puis finalement s’arrêter et ce qui était montré à l’écran était magnifique. De plus, avoir les lumières qui brillent comme les couleurs qui ont été montrées à l’écran vraiment a eu un impact sur ce que je vivais. Quelque chose que je changerais serait le clignotement des lumières pendant le segment unanime pour toutes les personnes à l’écran. La première fois que j’ai tout regardé, j’ai pensé que les lumières ne dureraient pas aussi longtemps. Je pense que c’était un peu trop au début, mais après avoir tout regardé pour la deuxième fois, ce n’était pas aussi mal que la première fois. Par contre dans l’ensemble, j’ai vraiment aimé y aller et vivre quelque chose si extraordinaire, car que je sais que je n’aurai pas toujours l’occasion.
