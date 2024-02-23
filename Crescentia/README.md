@@ -1,1 +1,1 @@
-Ce dossier est pour les expositions du projet Crescentia par les 3e années.
+Ce dossier est pour les expositions du projet Crescentia fait par les 3e années.
