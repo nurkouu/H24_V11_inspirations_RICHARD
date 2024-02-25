@@ -6,8 +6,8 @@ Sonalux est une installation qui a comme but de projeter son utilisateur dans un
 
 ##Les réalisateurs
 Sonalux a été réalisé par:
-[] Antoine Haddad
-[] Camélie Laprise
-[] Ghita Alaoui
-[] Vincent Desjardins
+[ ] Antoine Haddad
+[ ] Camélie Laprise
+[ ] Ghita Alaoui
+[ ] Vincent Desjardins
 
