@@ -28,8 +28,8 @@ Ce projet est immersif, car il permet à ses utilisateurs d'intéragir avec lui 
 
 ### Projecteurs
 
-![photo](media/composantes_techniques.jpg)
+![photo](media/composantes_techniques_projecteurs.jpg)
 
-##
+## 
 ##
 ##
