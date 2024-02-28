@@ -12,9 +12,15 @@ Sonalux a été réalisé par:
 - [ ] Vincent Desjardins
 
 ## Type d'installation
-Ce projet est immersif, car il permet à ses utilisateurs d'intéragir avec lui en utilisant les écouteurs qui leur sont fournis et qui est connecté au panneau. En manipulant les unités de touches (key units) et les potentiomètres, il enverra des sons musicaux au écouteur. Et grâce aux projecteurs, des lumières apparaîtront une fois qu'une action aura été effectuée sur le panneau par l'utilisateur.
+Ce projet est immersif, car il permet à ses utilisateurs d'intéragir avec lui en utilisant les écouteurs qui leur sont fournis et qui est connecté au panneau. En manipulant les unités de touches (key units) et les potentiomètres, il enverra des sons musicaux aux écouteurs. Et grâce aux projecteurs, des lumières apparaîtront une fois qu'une action aura été effectuée sur le panneau par l'utilisateur. Voici quelques images des installations:
 
+![photo](media/panneau_de_controle.jpg) 
 
+![photo](media/potensometre_keyunit.jpg)
+
+![photo](media/composantes_techniques_lumières.png)
+
+![photo](media/composantes_techniques.jpg)
 
 ##
 ##
