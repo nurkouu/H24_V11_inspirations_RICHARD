@@ -35,7 +35,7 @@ Ce projet est immersif, car il permet à ses utilisateurs d'intéragir avec lui 
 
 ![photo](media/schema_plantation.jpg) 
 
-(Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
+> **Source:** https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html
 
 ## Équipements
 Voici les équipements qui ont été utilisé pour faire:
@@ -67,7 +67,7 @@ La lumière:
 
 [...]
 
-(Le reste peuvent se trouver sur leur site: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
+> **Le reste peuvent se trouver sur leur site:** https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html
 
 ## Les logiciels utilisés
 Les réalisateurs de Sonalux avec l'aide de TouchDesigner, VCV Rack et d'arduino IDE, ont pu réalisés le tout. TouchDesigner est un logiciel basé sur une programmation visuelle qui permet des interactions instantanées et VCV Rack est un synthétiseur virtuel gratuit et open source et Arduino IDE est un autre language de programmation.
@@ -79,4 +79,4 @@ L'interacteur se positionne devant le podium, met les écouteurs et commence à 
 Mon expérience avec Sonalux a été très intéressante. J'ai eu l'occasion de le tester et c'était très amusant. Au début, j'étais un peu confus quant à ce que je faisais exactement, mais ensuite j'ai compris et j'ai même essayé de faire une chanson avec. C'était très amusant et poétique d'une certaine manière. Je trouve que ça pique assez l'intérêt de l'utilisateur ce qui est très bon.
 
 ## Référence
-(Site web: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html)
+> **Site web:** https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
