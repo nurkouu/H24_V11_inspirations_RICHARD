@@ -33,7 +33,7 @@ Ce projet utilise les types d'installations de base comme deux projecteurs, l'un
 
 ### Schéma
 
-![photo](media/schema_plantation_plan.jpg)
+![photo](media/schema_plantation_plan.png)
 
 > **Source:** https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html
 
