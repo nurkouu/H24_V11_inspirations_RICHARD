@@ -12,8 +12,8 @@ Sonalux a été réalisé par:
 - [ ] Ghita Alaoui
 - [ ] Vincent Desjardins
 
-## Type d'installation
-Ce projet est immersif, car il permet à ses utilisateurs d'intéragir avec lui en utilisant les écouteurs qui leur sont fournis et qui est connecté au panneau. En manipulant les unités de touches (key units) et les potentiomètres, il enverra des sons musicaux aux écouteurs. Et grâce aux projecteurs, des lumières apparaîtront une fois qu'une action aura été effectuée sur le panneau par l'utilisateur. D'ailleurs, le projet se passe entre 3 murs au total dont 2 sont mobiles. Voici quelques images et un croquis des installations:
+## Types d'installation
+Ce projet est immersif, car il permet à ses utilisateurs d'intéragir avec lui en utilisant les écouteurs qui leur sont fournis et qui est connecté au panneau. En manipulant les unités de touches (key units) et les potentiomètres, il enverra des sons musicaux aux écouteurs. Et grâce aux projecteurs, des lumières apparaîtront une fois qu'une action aura été effectuée sur le panneau par l'utilisateur. En fait, le projet se passe entre 3 murs au total dont 2 sont mobiles. Voici quelques images et un croquis des installations:
 
 ### Panneau de contrôle
 
@@ -37,8 +37,13 @@ Ce projet est immersif, car il permet à ses utilisateurs d'intéragir avec lui 
 
 (Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
 
+## Équipements
+Voici les équipements qui ont été utilisé pour faire:
+- L'audio:
+- 
+
 ## Les logiciels utilisés
-Les réalisateurs de Sonalux avec l'aide de TouchDesigner et de VCV Rack, ont pu réalisés le tout. TouchDesigner est un logiciel basé sur une programmation visuelle qui permet des interactions instantanées et VCV Rack est un synthétiseur virtuel gratuit et open source. 
+Les réalisateurs de Sonalux avec l'aide de TouchDesigner, VCV Rack et d'arduino IDE, ont pu réalisés le tout. TouchDesigner est un logiciel basé sur une programmation visuelle qui permet des interactions instantanées et VCV Rack est un synthétiseur virtuel gratuit et open source et Arduino IDE est un autre language de programmation.
 
 ## Mon experience
 Mon expérience avec Sonalux a été très intéressante. J'ai eu l'occasion de le tester et c'était très amusant. Au début, j'étais un peu confus quant à ce que je faisais exactement, mais ensuite j'ai compris et j'ai même essayé de faire une chanson avec. C'était très amusant et poétique d'une certaine manière.
