@@ -39,6 +39,7 @@ Ce projet est immersif, car il permet à ses utilisateurs d'intéragir avec lui 
 
 ## Équipements
 Voici les équipements qui ont été utilisé pour faire:
+
 L'audio:
 - Carte de son
 - Des casques d'écouteurs (4x)
@@ -63,16 +64,6 @@ Le réseau:
 
 La lumière: 
 - Tubes DEL
-
-M5Stack:
-- 3 Atom Lite
-- 3 Atom POE
-- 5 Angle Unit
-- 4 Key Unit
-- 2 PBHub
-- 1 GroveHub
-- 1 PaHub
-- 2 Tof
 
 [...]
 
