@@ -33,7 +33,7 @@ Ce projet est immersif, car il permet à ses utilisateurs d'intéragir avec lui 
 
 ### Croquis
 
-![photo](media/.jpg)
+![photo](media/schema_plantation.jpg)
 
 ## 
 ##
