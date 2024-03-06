@@ -78,9 +78,8 @@ L'équipe de Rhizomatique ont utilisé divers logiciels pour la réalisation de 
 
 > ** Lien pour DaVinci Resolve: https://www.blackmagicdesign.com/ca/products/davinciresolve
 
+## Experience général
+L'intéracteur est invité à appuuyer sur la toile. Grâce au capteur d'infrarouge et des kinects ceci va permettre l'interaction avec les vidéos sur le cyclorama. À chaque fois que celui-ci appuye sur la toile, une espèce de modèle ou tracé va apparaitre sous la main et cela est programmé à changer les souvenirs qui apparaitront sur le cyclorama.
 
-
-
-
-
-
+## Expérience personel
+Honnêtement, j’adore l’idée derrière le projet, car c’est vrai que le temps passe si vite sans même qu’on le sache parfois. Alors créer un projet comme celui-ci pour nous permettre de revoir certains de nos précieux souvenirs, je pense que c'est une bonne chose. Quand l'équipe m'a dit que je pouvais appuyer plus fort sur la toile, j'étais un peu choquée, car je pensais que j'allais la casser, mais c'était satisfaisant d'une certaine manière. Je pense qu'avec un peu plus de travail, leur projet peut vraiment aller quelque part.
