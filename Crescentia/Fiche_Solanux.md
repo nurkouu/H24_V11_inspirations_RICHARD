@@ -21,7 +21,7 @@ Ce projet est immersif, car il permet à ses utilisateurs d'intéragir avec lui 
 
 ### Controleur (Potensomètre et Unités de touches (Key Unité))
 
-![photo](media/potensometre_keyunit.jpg)
+![photo](media/potentiometre_keyunit.jpg)
 
 ### Lumières
 
