@@ -27,7 +27,7 @@ Ce projet est immersif, car il permet à ses utilisateurs d'intéragir avec lui 
 
 ![photo](media/composantes_techniques_lumières.png)
 
-### Projecteurs
+### Projecteurs et Haut-Parleurs
 
 ![photo](media/composantes_techniques_projecteurs.jpg)
 
@@ -37,6 +37,8 @@ Ce projet est immersif, car il permet à ses utilisateurs d'intéragir avec lui 
 
 (Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
 
-## 
-##
-##
+## Les logiciels utilisés
+Les réalisateurs de Sonalux avec l'aide de TouchDesigner et de VCV Rack, ont pu réalisés le tout. TouchDesigner est un logiciel basé sur une programmation visuelle qui permet des interactions instantanées et VCV Rack est un synthétiseur virtuel gratuit et open source. 
+
+## Mon experience
+Mon expérience avec Sonalux a été très intéressante. J'ai eu l'occasion de le tester et c'était très amusant. Au début, j'étais un peu confus quant à ce que je faisais exactement, mais ensuite j'ai compris et j'ai même essayé de faire une chanson avec. C'était très amusant et poétique d'une certaine manière.
