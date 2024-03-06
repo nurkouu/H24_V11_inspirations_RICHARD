@@ -1,5 +1,5 @@
 # Rhizomatique
-(Date de visite: 02-20-24)
+> *Cégèp Montmorency*, Laval, 02-20-24
 
 ## Description du projet
 Rhizomatique est une installation qui est séparée en deux parties: la toile et les projections qui sont immersives. Ce projet permet à l'intéracteur de voyager dans ces souvenirs en appuyant sur une toile. Après l'intéraction, les projections vont reprendre leur position initiale jusqu'à la prochaine intéraction.
@@ -63,6 +63,6 @@ Ordinateur:
 
 [...]
 
-(Le reste de l'information sur les équipements peuvent être trouvé sur leur site web: https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html)
+> **Le reste de l'information sur les équipements peuvent être trouvé sur leur site web:** https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html
 
 ## 
