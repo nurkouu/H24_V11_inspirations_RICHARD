@@ -33,7 +33,9 @@ Ce projet est immersif, car il permet à ses utilisateurs d'intéragir avec lui 
 
 ### Croquis
 
-![photo](media/schema_plantation.jpg) (Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
+![photo](media/schema_plantation.jpg) 
+
+(Source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
 
 ## 
 ##
