@@ -36,7 +36,7 @@ Pour pouvoir réaliser ce projet, l'équipe a utilisé divers types d'installati
 
 > **Source:** https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html
 
-## Les équipements
+## Équipements
 Voici quelques informations des équipements qui peuvent être trouvé sur leur site et qui ont été utilisé pour la réalisation de ce projet:
 
 L'audio:
