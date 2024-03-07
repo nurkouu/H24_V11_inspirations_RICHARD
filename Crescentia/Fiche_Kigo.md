@@ -82,7 +82,7 @@ Le but de ce jeu est principalement d'éviter des obstacles et d'amasser des poi
 
 ![photo](media/avatar_kigo.jpg)
 
-## Expérience personelle
+## Expérience personnelle
 Je n'ai pas pu l'essayer donc je ne peux pas vraiment dire grand chose, mais ce que je peux dire c'est que ça me rappellait un peu de Just Dance et de Beat saber juste à cause de l'avatar et des obstacles et c'est pourquoi je vais dire que ça avait l'air amusant. Voici une image de quelqu'un entrain de jouer:
 
 ![photo](media/vue_entiere_kigo.jpg)
