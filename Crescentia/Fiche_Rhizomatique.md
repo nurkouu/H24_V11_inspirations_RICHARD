@@ -78,7 +78,7 @@ L'équipe de Rhizomatique ont utilisé divers logiciels pour la réalisation de 
 
 > ** Lien pour DaVinci Resolve: https://www.blackmagicdesign.com/ca/products/davinciresolve
 
-## Experience générale
+## Expérience générale
 L'intéracteur est invité à appuyer sur la toile. Grâce au capteur d'infrarouge et des kinects ceci va permettre l'interaction avec les vidéos sur le cyclorama. À chaque fois que celui-ci appuye sur la toile qui représente une simulation du cerveau, un espèce de modèle ou tracé va apparaitre sous la main et cela est programmé à changer les souvenirs qui apparaitront sur le cyclorama. Voici quelques images:
 
 ### Main sur toile
