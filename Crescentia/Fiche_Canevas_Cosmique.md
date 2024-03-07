@@ -62,7 +62,7 @@ Ordinateur
 > **Le reste de l'information sur les équipements peuvent être trouvé sur leur site web:** https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html
 
 ## Les logiciels utilisés
-L'équipe de Canevas Cosmique ont utilisé divers logiciels pour la réalisation de ce projet tels que TouchDesigner, VCV Rack, Reaper, OBS, Unity 2019 Its, Autodesk Maya et MadMapper. 
+L'équipe de Canevas Cosmique ont utilisé divers logiciels pour la réalisation de ce projet tels que TouchDesigner, VCV Rack, Reaper, OBS, Unity 2019 Its, Autodesk Maya, MadMapper et Python. 
 
 > ** Lien pour TouchDesigner: https://derivative.ca/
 
@@ -77,6 +77,8 @@ L'équipe de Canevas Cosmique ont utilisé divers logiciels pour la réalisation
 > ** Lien pour Autodesk Maya: https://www.autodesk.com/ca-fr
 
 > ** Lien pour MadMapper: https://madmapper.com/
+
+> ** Lien pour Python: https://www.python.org/
 
 ## Expérience générale
 L'intéracteur est invité à jouer avec les statues en les déplaçant. Cela agit comme le système solaire. Voici une image qui montre l'emplacement de tout:
