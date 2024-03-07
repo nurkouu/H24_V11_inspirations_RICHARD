@@ -54,6 +54,35 @@ Vidéo
 - Des cordons IEC (pour l'alimentation des haut-parleurs) (2x)
 - Des multiprises (2x)
 
+Ordinateur
+- Un ordinateur
+
+[...]
+
+> **Le reste de l'information sur les équipements peuvent être trouvé sur leur site web:** https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html
+
+## Les logiciels utilisés
+L'équipe de Canevas Cosmique ont utilisé divers logiciels pour la réalisation de ce projet tels que TouchDesigner, VCV Rack, Reaper, OBS, Unity 2019 Its, Autodesk Maya et MadMapper. 
+
+> ** Lien pour TouchDesigner: https://derivative.ca/
+
+> ** Lien pour VCV Rack: https://vcvrack.com/
+
+> ** Lien pour Reaper: https://www.reaper.fm/download.php
+
+> ** Lien pour OBS: https://obsproject.com/
+
+> ** Lien pour Unity 2019 Its: https://unity.com/
+
+> ** Lien pour Autodesk Maya: https://www.autodesk.com/ca-fr
+
+> ** Lien pour MadMapper: https://madmapper.com/
+
+## Experience général
+
+
+
+
 
 
 
