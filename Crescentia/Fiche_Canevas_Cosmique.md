@@ -81,7 +81,7 @@ L'équipe de Canevas Cosmique ont utilisé divers logiciels pour la réalisation
 ## Experience général
 L'intéracteur est invité à jouer avec les statues en les déplaçant. Cela agit comme le système solaire. Voici une image qui montre l'emplacement de tout:
 
-![photo](media/vue_entiere_projet.png)
+![photo](media/vue_entiere_projet.jpg)
 
 ## Experience personelle
 Pour moi, ce fut une expérience intéressante. Je pensais que c'était amusant parce que c'était comme un jeu. Et les effets que cela produirait lorsque, par exemple, la statue du trou noir consommerait le soleil et créerait cette autre planète qui ressemblait un peu au bonbon spécial de Candy Crush, j'ai trouvé cela très cool et nostalgique.
