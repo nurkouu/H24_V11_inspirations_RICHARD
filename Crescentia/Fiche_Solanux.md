@@ -72,7 +72,7 @@ La lumière:
 ## Les logiciels utilisés
 Les réalisateurs de Sonalux avec l'aide de TouchDesigner, VCV Rack et d'arduino IDE, ont pu réalisés le tout. TouchDesigner est un logiciel basé sur une programmation visuelle qui permet des interactions instantanées et VCV Rack est un synthétiseur virtuel gratuit et open source et Arduino IDE est un autre language de programmation.
 
-## Experience général
+## Experience générale
 L'interacteur se positionne devant le podium, met les écouteurs et commence à jouer avec les unités de touches (Key units) et potentiomètres. Ceci entrainera des sons dans les écouteurs se qui permettra à l'interacteur de s'amuser en créeant des morceaux de musique. En même temps, les projecteurs et les lumières vont bouger dépendemment de ce qui va être bouger sur le podium.
 
 ## Experience personelle
