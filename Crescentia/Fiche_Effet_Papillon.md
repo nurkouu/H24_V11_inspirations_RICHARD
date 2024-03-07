@@ -77,7 +77,7 @@ L'intéracteur est invité à directement interagir avec la structure pour chang
 
 ![photo](media/projet_effet_pap.jpg)
 
-## Expérience personelle
+## Expérience personnelle
 Je n'ai pas eu l'occasion d'en faire l'expérience, mais j'ai pu voir ce qui se passe lorsqu'on interagit avec lui. Je pense que c'est un beau projet, mais il me semble qu'il est un peu plus compliqué que les autres à mon avis à cause de son apparence physique et l'idée de le recréer semble très complexe.
 
 # Référence
