@@ -66,13 +66,13 @@ Ordinateur:
 > **Le reste de l'information sur les équipements peuvent être trouvé sur leur site web:** https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html
 
 ## Les logiciels utilisés
-L'équipe de Rhizomatique ont utilisé divers logiciels pour la réalisation de ce projet tels que TouchDesigner, VCV Rack 2, QlC+, MadMapper et DaVinci Resolve. 
+L'équipe de Rhizomatique ont utilisé divers logiciels pour la réalisation de ce projet tels que TouchDesigner, VCV Rack 2, QLC+, MadMapper et DaVinci Resolve. 
 
 > ** Lien pour TouchDesigner: https://derivative.ca/
 
 > ** Lien pour VCV Rack 2: https://vcvrack.com/Rack
 
-> ** Lien pour QIC+: https://www.qlcplus.org/
+> ** Lien pour QLC+: https://www.qlcplus.org/
 
 > ** Lien pour MadMapper: https://madmapper.com/
 
