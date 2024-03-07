@@ -70,7 +70,18 @@ Pour cette installation l'équipe d'Effet Papillon ont utilisé divers logiciels
 
 > ** Lien pour Blender: https://www.blender.org/
 
+## Expérience générale
+L'intéracteur est invité à directement interagir avec la structure pour changer l’environnement qui est autour de lui et celui de la structure. Voici une image de la structure:
 
+### Structure Effet Papillon
+
+![photo](media/projet_effet_pap.jpg)
+
+## Expérience personelle
+Je n'ai pas eu l'occasion d'en faire l'expérience, mais j'ai pu voir ce qui se passe lorsqu'on interagit avec lui. Je pense que c'est un beau projet, mais il me semble qu'il est un peu plus compliqué que les autres à mon avis à cause de son apparence physique et l'idée de le recréer semble très complexe.
+
+# Référence
+> **Site web:** https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
 
 
 
