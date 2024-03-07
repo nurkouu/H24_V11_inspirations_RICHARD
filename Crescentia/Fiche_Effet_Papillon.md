@@ -2,7 +2,7 @@
 > *Collège Montmorency*, Laval, 02-20-24
 
 ## Description du projet
-Effet Papillon est une installation interactive qui voit le cycle de vie d'un pommier en poursuivant l'effet papillon de plusieurs éléments électroniques et tout en éduquant les intéracteurs.
+Effet Papillon est une installation interactive qui voit le cycle de vie d'un pommier en poursuivant l'effet papillon de plusieurs éléments électroniques tout en éduquant les intéracteurs.
 
 ## Les réalisateurs
 Effet Papillon a été réalisé par:
@@ -13,9 +13,62 @@ Effet Papillon a été réalisé par:
 - [ ] Viktor Zhuravlev
 - [ ] Jasmine Lapierre
 
+## Types d'installation
+Pour la réalisation d'Effet Papillon, l'équipe a utilisé divers types d'installation comme plusieurs projecteurs, un kinect, plusieurs écrans qui étaient accrochés autour du poteau au centre de la salle, des hauts-parleurs et des lumières. Voici quelques images et un plantation:
 
+### Les projecteurs
 
+![photo](media/projecteurs_effet_pap.jpg)
 
+### Écrans
+
+![photo](media/ecrans_effet_pap.jpg)
+
+### Lumières
+
+![photo](media/led_effet_pap.jpg)
+
+### Haut-parleur
+
+![photo](media/haut_parleur_effet_pap.jpg)
+
+### Plantation
+
+![photo](media/plantation_effet_pap.jpg)
+
+> **Source:** https://github.com/Iteration6/Effet-Papillon/blob/2b2e73f72208211f2ff77f123d528beb9cf9ef03/docs/preproduction/medias/Plantation_01.jpg
+
+## Équipements
+Voici quelques informations des équipements de ce projet:
+
+- Ultra short throw (Projecteurs)
+- Ordinateur portable
+- Extender HDMI
+- Des écrans
+- Un kinect V2
+- Lumière DMX	
+[...]
+
+> **Le reste de l'information sur les équipements peuvent être trouvé sur leur site web:** https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html
+
+## Les logiciels utilisés
+Pour cette installation l'équipe d'Effet Papillon ont utilisé divers logiciels pour la réalisation de ce projet tels que QLC +, Touch Designer, Mad Mapper, Arduino, HyperHDR, FL Studio, Visual Code Studio et Blender.
+
+> ** Lien pour QLC+: https://www.qlcplus.org/
+
+> ** Lien pour TouchDesigner: https://derivative.ca/UserGuide/TouchDesigner
+
+> ** Lien pour MadMapper: https://madmapper.com/
+
+> ** Lien pour Arduino: https://www.arduino.cc/
+
+> ** Lien pour HyperHDR: https://github.com/awawa-dev/HyperHDR
+
+> ** Lien pour FL Studio: https://www.image-line.com/fl-studio/
+
+> ** Lien pour Visual Code Studio: https://code.visualstudio.com/
+
+> ** Lien pour Blender: https://www.blender.org/
 
 
 
