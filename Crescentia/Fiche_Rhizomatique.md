@@ -2,7 +2,7 @@
 > *Collège Montmorency*, Laval, 02-20-24
 
 ## Description du projet
-Rhizomatique est une installation qui est séparée en deux parties: la toile et les projections qui sont immersives. Ce projet permet à l'intéracteur de voyager dans ces souvenirs en appuyant sur une toile. Après l'intéraction, les projections vont reprendre leur position initiale jusqu'à la prochaine intéraction.
+Rhizomatique est une installation immersive qui est séparée en deux parties: la toile et les projections qui sont immersives. Ce projet permet à l'intéracteur de voyager dans ces souvenirs en appuyant sur une toile. Après l'intéraction, les projections vont reprendre leur position initiale jusqu'à la prochaine intéraction.
 
 ## Les réalisateurs
 Rhizomatique a été réalisé par:
