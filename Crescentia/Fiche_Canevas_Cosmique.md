@@ -78,7 +78,7 @@ L'équipe de Canevas Cosmique ont utilisé divers logiciels pour la réalisation
 
 > ** Lien pour MadMapper: https://madmapper.com/
 
-## Experience général
+## Experience générale
 L'intéracteur est invité à jouer avec les statues en les déplaçant. Cela agit comme le système solaire. Voici une image qui montre l'emplacement de tout:
 
 ![photo](media/vue_entiere_projet.jpg)
