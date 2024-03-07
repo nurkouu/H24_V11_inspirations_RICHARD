@@ -2,7 +2,7 @@
 > *Collège Montmorency*, Laval, 02-20-24
 
 ## Description du projet
-Ce projet est une simulation de l'espace. Il se déroule sur une table et à l'aide de différents types d'installations, il invite les utilisateurs à jouer avec les statues en papier qui fonctionnent comme des planètes.
+Ce projet immersif est une simulation de l'espace. Il se déroule sur une table et à l'aide de différents types d'installations, il invite les utilisateurs à jouer avec les statues en papier qui fonctionnent comme des planètes.
 
 ## Les réalisateurs
 Canevas Cosmique a été réalisé par:
@@ -79,8 +79,15 @@ L'équipe de Canevas Cosmique ont utilisé divers logiciels pour la réalisation
 > ** Lien pour MadMapper: https://madmapper.com/
 
 ## Experience général
+L'intéracteur est invité à jouer avec les statues en les déplaçant. Cela agit comme le système solaire. Voici une image qui montre l'emplacement de tout:
 
+![photo](media/vue_entiere_projet.png)
 
+## Experience personelle
+Pour moi, ce fut une expérience intéressante. Je pensais que c'était amusant parce que c'était comme un jeu. Et les effets que cela produirait lorsque, par exemple, la statue du trou noir consommerait le soleil et créerait cette autre planète qui ressemblait un peu au bonbon spécial de Candy Crush, j'ai trouvé cela très cool et nostalgique.
+
+## Référence
+> **Site web:** https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
 
 
 
