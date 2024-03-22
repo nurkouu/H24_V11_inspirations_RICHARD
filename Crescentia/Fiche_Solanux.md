@@ -17,7 +17,7 @@ Ce projet est immersif, car il permet à ses utilisateurs d'intéragir avec lui 
 
 ### Panneau de contrôle (Potensomètre et Unités de touches (Key Unité))
 
-![photo](media/panneau_de_controle.jpg) ![photo](media/composantes_techniques_lumières.png)
+![photo](media/panneau_de_controle.jpg)
 
 ### Lumières
 
@@ -74,5 +74,6 @@ L'interacteur se positionne devant le podium, met les écouteurs et commence à 
 ## Expérience personnelle
 Mon expérience avec Sonalux a été très intéressante. J'ai eu l'occasion de le tester et c'était très amusant. Au début, j'étais un peu confus quant à ce que je faisais exactement, mais ensuite j'ai compris et j'ai même essayé de faire une chanson avec. C'était très amusant et poétique d'une certaine manière. Je trouve que ça pique assez l'intérêt de l'utilisateur ce qui est très bon.
 
+## 
 ## Référence
 > **Site web:** https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
