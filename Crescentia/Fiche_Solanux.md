@@ -77,9 +77,9 @@ Mon expérience avec Sonalux a été très intéressante. J'ai eu l'occasion de 
 ## Après la finition - Semaine 7
 Voici deux images qui montrent le projet final.
 
-![photo](media/sonalux_projet_final.JPG)
+![photo](media/sonalux_projet_final.jpg)
 
-![photo](media/sonalux_mur.JPG)
+![photo](media/sonalux_mur.jpg)
 
 ## Référence
 > **Site web:** https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
