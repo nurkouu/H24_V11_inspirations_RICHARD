@@ -81,7 +81,7 @@ Voici deux images qui montrent le projet final.
 
 ![photo](media/sonalux_mur.jpg)
 
-![photo](media/sonalux_panneau.jpg)
+
 
 ## Référence
 > **Site web:** https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html
