@@ -1,4 +1,4 @@
-# Rhizomatique
+# 3. Rhizomatique
 > *Collège Montmorency*, Laval, 02-20-24
 
 ## Description du projet
