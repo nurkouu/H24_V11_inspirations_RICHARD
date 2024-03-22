@@ -28,7 +28,7 @@ Pour pouvoir réaliser ce projet, l'équipe a utilisé divers types d'installati
 
 ### Ordinateur
 
-![photo](media/technique_ordinateur.jpg)
+![photo](media/rhizomatique_ordinateur.jpg)
 
 ### Croquis
 
