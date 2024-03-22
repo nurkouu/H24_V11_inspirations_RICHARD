@@ -1,6 +1,8 @@
 # Canevas Cosmique
 > *Collège Montmorency*, Laval, 02-20-24
 
+
+
 ## Description du projet
 Ce projet immersif est une simulation de l'espace. Il se déroule sur une table et à l'aide de différents types d'installations, il invite les utilisateurs à jouer avec les statues en papier qui fonctionnent comme des planètes.
 
