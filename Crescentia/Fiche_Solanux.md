@@ -15,7 +15,7 @@ Sonalux a été réalisé par:
 ## Types d'installation
 Ce projet est immersif, car il permet à ses utilisateurs d'intéragir avec lui en utilisant les écouteurs qui leur sont fournis et qui est connecté au panneau. En manipulant les unités de touches (key units) et les potentiomètres, il enverra des sons musicaux aux écouteurs. Et grâce aux projecteurs, des lumières apparaîtront une fois qu'une action aura été effectuée sur le panneau par l'utilisateur. De plus, le projet se passe entre 3 murs au total dont 2 sont mobiles, comporte trois projecteurs, 2 haut-parleurs et un Kinect qui sert à controller une interface sans l'utilisation d'une manette. Voici quelques images et un croquis des installations:
 
-### Panneau de contrôle
+### Panneau de contrôle (Potensomètre et Unités de touches (Key Unité))
 
 ![photo](media/panneau_de_controle.jpg) 
 
