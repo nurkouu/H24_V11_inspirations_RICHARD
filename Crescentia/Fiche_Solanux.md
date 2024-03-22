@@ -21,7 +21,7 @@ Ce projet est immersif, car il permet à ses utilisateurs d'intéragir avec lui 
 
 ### Lumières
 
-![photo](media/composantes_techniques_lumières.png)
+
 
 ### Projecteurs et Haut-Parleurs
 
