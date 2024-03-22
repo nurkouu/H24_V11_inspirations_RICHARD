@@ -20,7 +20,7 @@ Pour pouvoir réaliser ce projet, l'équipe a utilisé divers types d'installati
 
 ### La toile
 
-![photo](media/vue_entiere_toile.jpg)
+![photo](media/rhizomatique_toile.jpg)
 
 ### Projection sur le cyclorama
 
