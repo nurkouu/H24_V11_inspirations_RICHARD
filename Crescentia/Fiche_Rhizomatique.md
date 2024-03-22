@@ -88,5 +88,12 @@ L'intéracteur est invité à appuyer sur la toile. Grâce au capteur d'infrarou
 ## Expérience personelle
 Honnêtement, j’adore l’idée derrière le projet, car c’est vrai que le temps passe si vite sans même qu’on le sache parfois. Alors créer un projet comme celui-ci pour nous permettre de revoir certains de nos précieux souvenirs, je pense que c'est une bonne chose. Quand l'équipe m'a dit que je pouvais appuyer plus fort sur la toile, j'étais un peu choquée, car je pensais que j'allais la casser, mais c'était satisfaisant d'une certaine manière. Je pense qu'avec un peu plus de travail, leur projet peut vraiment aller quelque part.
 
+## Après la finition - Semaine 7
+Voici deux images qui representent bien le projet final.
+
+![photo](media/rhizomatique_projet_final.jpg)
+
+![photo](media/rhizomatique_sarah.jpg)
+
 # Référence
 > **Site web:** https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html
