@@ -1,4 +1,4 @@
-# Canevas Cosmique
+# 2. Canevas Cosmique
 > *Collège Montmorency*, Laval, 02-20-24
 
 
