@@ -24,7 +24,7 @@ Pour pouvoir réaliser ce projet, l'équipe a utilisé divers types d'installati
 
 ### Projection sur le cyclorama
 
-![photo](media/projection_mur.jpg)
+![photo](media/rhizomatique_projection_cyclo.jpg)
 
 ### Ordinateur
 
