@@ -75,7 +75,7 @@ L'interacteur se positionne devant le podium, met les écouteurs et commence à 
 Mon expérience avec Sonalux a été très intéressante. J'ai eu l'occasion de le tester et c'était très amusant. Au début, j'étais un peu confus quant à ce que je faisais exactement, mais ensuite j'ai compris et j'ai même essayé de faire une chanson avec. C'était très amusant et poétique d'une certaine manière. Je trouve que ça pique assez l'intérêt de l'utilisateur ce qui est très bon.
 
 ## Après la finition - Semaine 7
-Voici deux images qui montrent le projet final.
+Voici trois images qui representent bien le projet final.
 
 ![photo](media/sonalux_projet_final.jpg)
 
