@@ -19,7 +19,7 @@ Ce projet utilise les types d'installations de base comme deux projecteurs, l'un
 
 ### Projecteur sous la table
 
-![photo](media/technique_projecteur_sous_table.jpg)
+![photo](media/canevas_projecteur_sous_table.jpg)
 
 ### Projecteur au plafond et haut-parleur
 
