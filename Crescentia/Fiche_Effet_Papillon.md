@@ -24,13 +24,9 @@ Pour la réalisation d'Effet Papillon, l'équipe a utilisé divers types d'insta
 
 ![photo](media/effet_pap_ecrans.jpg)
 
-### Lumières
+### Lumières et haut-parleur
 
-![photo](media/effet_pap_led.jpg)
-
-### Haut-parleur
-
-![photo](media/effet_pap_haut_parleur.jpg)
+![photo](media/effet_pap_led_haut_parleur.jpg)
 
 ### Plantation
 
