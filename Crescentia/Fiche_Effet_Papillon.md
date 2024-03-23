@@ -22,7 +22,7 @@ Pour la réalisation d'Effet Papillon, l'équipe a utilisé divers types d'insta
 
 ### Écrans
 
-![photo](media/ecrans_effet_pap.jpg)
+![photo](media/effet_pap_ecrans.jpg)
 
 ### Lumières
 
