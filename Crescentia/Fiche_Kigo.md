@@ -88,7 +88,7 @@ Je n'ai pas pu l'essayer donc je ne peux pas vraiment dire grand chose, mais ce 
 ![photo](media/kigo_vue_entiere.jpg)
 
 ## Après la finition - Semaine 7
-Voici trois images qui representent bien le projet final.
+Voici deux images qui representent bien le projet final:
 
 ![photo](media/kigo_projet_final.jpg)![photo](media/kigo_pointage.jpg)
 
