@@ -1,5 +1,9 @@
 # Sommaire
 
+## Thème Crescentia
+Crescentia, qui signifie « croissance » en latin, met de l'avant le concept d'évolution qui apparaît sous plusieurs facettes, que ce soit de manière organique, environnementale, ou encore psychologique. C'est aussi le nom de l'exposition finale des étudiants en techniques d'intégration multimédia du Collège Montmorency dont les œuvres explorent ce concept de plusieurs manières. Ce sont des créations en perpétuel mouvement, qui évoluent et se transforment au gré des actions des visiteurs.
+
+
 ## Trois cours utile pour créer ce type de projet
 Selon moi le cours de web, d'audio et de programmation sont les trois cours qui sont incontournable pour crée ce genre de projet, car pour chacun 
 des projets qui nous on été présenté, tous les membres ont mentionné d'avoir utiliser au moins les compétences de deux de ces cours. 
