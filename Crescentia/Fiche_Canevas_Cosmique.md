@@ -23,7 +23,7 @@ Ce projet utilise les types d'installations de base comme deux projecteurs, l'un
 
 ### Projecteur au plafond et haut-parleur
 
-![photo](media/tcanevas_projecteur_haut_parleur.jpg)
+![photo](media/canevas_projecteur_haut_parleur.jpg)
 
 ### Table
 
