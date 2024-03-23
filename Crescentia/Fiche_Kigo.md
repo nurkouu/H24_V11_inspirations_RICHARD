@@ -17,7 +17,7 @@ La réalisation de Kigo a utilisé divers types d'installation comme des haut-pa
 
 ### Le projecteur et haut-parleur
 
-![photo](media/tech_projecteur_haut_parleur.jpg)
+![photo](media/kigo_projecteur_haut_parleur.jpg)
 
 ### Kinect
 
