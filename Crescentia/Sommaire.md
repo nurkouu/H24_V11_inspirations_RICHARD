@@ -10,3 +10,4 @@ pour être appelé « kinect », mais il peut également être appelé « code p
 principalement ce dispositif pour le suivi et la reconnaissance d’un sujet par exemple dans Canevas Cosmique, il était utilisé sous chaque statue à l’aide
 des projecteurs et des logiciels ou encore dans Kigo, pour que l’avatar puisse suivre le joueur, c’était à l’aide de la kinect et de programmation.
 
+![photo](media/kigo_kinect_apres.jpg)
