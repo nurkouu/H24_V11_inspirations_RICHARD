@@ -80,7 +80,7 @@ L'équipe de Kigo ont utilisé divers logiciels pour réaliser leur projet tels 
 ## Expérience générale
 Le but de ce jeu est principalement d'éviter des obstacles et d'amasser des points. Au fur et à mesure, l'apparition des obstacles vont devenir plus rapide. C'est grâce au kinect que l'avatar peut apparaître. Voici une image de l'avatar qui est en jaune (celui en vert n'est pas un joueur mais le kinect a quand même réussi à capter ses mouvements et de les transmettre pour le présenter):
 
-![photo](media/avatar_kigo.jpg)
+![photo](media/kigo_avatar_avant.jpg)![photo](media/kigo_avatar_apres.jpg)
 
 ## Expérience personnelle
 Je n'ai pas pu l'essayer donc je ne peux pas vraiment dire grand chose, mais ce que je peux dire c'est que ça me rappellait un peu de Just Dance et de Beat saber juste à cause de l'avatar et des obstacles et c'est pourquoi je vais dire que ça avait l'air amusant. Voici une image de quelqu'un entrain de jouer:
