@@ -91,9 +91,9 @@ Voici une image qui represente bien le projet final:
 
 ![photo](media/canevas_erreur.jpg)
 
-![photo](media/canevas_projet_entiere.jpg)![photo](media/canevas_statues_orange.jpg)
 
 
+![photo](media/canevas_statues_orange.jpg)
 
 ## Référence
 > **Site web:** https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html
