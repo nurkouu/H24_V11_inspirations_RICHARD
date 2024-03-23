@@ -76,6 +76,13 @@ L'intéracteur est invité à directement interagir avec la structure pour chang
 ## Expérience personnelle
 Je n'ai pas eu l'occasion d'en faire l'expérience, mais j'ai pu voir ce qui se passe lorsqu'on interagit avec lui. Je pense que c'est un beau projet, mais il me semble qu'il est un peu plus compliqué que les autres à mon avis à cause de son apparence physique et l'idée de le recréer semble très complexe.
 
+## Après la finition - Semaine 7
+Voici trois images qui representent bien le projet final.
+
+![photo](media/sonalux_projet_final.jpg)
+
+![photo](media/effet_pap_lumiere.jpg)![photo](media/effet_pap_ampoules.jpg)
+
 # Référence
 > **Site web:** https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
 
