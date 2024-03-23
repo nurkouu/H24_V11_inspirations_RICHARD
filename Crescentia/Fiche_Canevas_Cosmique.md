@@ -89,9 +89,9 @@ Pour moi, ce fut une expérience intéressante. Je pensais que c'était amusant 
 ## Après la finition - Semaine 7
 Voici une image qui represente bien le projet final:
 
-![photo](media/canevas_erreur.jpg)
-
 ![photo](media/canevas_projet_entiere.jpg)
+
+![photo](media/canevas_erreur.jpg)
 
 ![photo](media/canevas_statues_orange.jpg)
 
