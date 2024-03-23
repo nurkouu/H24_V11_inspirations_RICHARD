@@ -87,7 +87,7 @@ L'intéracteur est invité à jouer avec les statues en les déplaçant. Cela ag
 Pour moi, ce fut une expérience intéressante. Je pensais que c'était amusant parce que c'était comme un jeu. Et les effets que cela produirait lorsque, par exemple, la statue du trou noir consommerait le soleil et créerait cette autre planète qui ressemblait un peu au bonbon spécial de Candy Crush, j'ai trouvé cela très cool et nostalgique.
 
 ## Après la finition - Semaine 7
-Voici une image qui represente bien le projet final:
+Voici trois images qui representent bien le projet final:
 
 ![photo](media/canevas_projet_entiere.jpg)
 
