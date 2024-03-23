@@ -25,7 +25,7 @@ La réalisation de Kigo a utilisé divers types d'installation comme des haut-pa
 
 ### Ordinateur
 
-![photo](media/ordinateur_logiciel.jpg)
+![photo](media/kigo_ordinateur.jpg)
 
 ### Scénarimage
 
