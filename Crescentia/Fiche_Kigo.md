@@ -90,7 +90,7 @@ Je n'ai pas pu l'essayer donc je ne peux pas vraiment dire grand chose, mais ce 
 ## Après la finition - Semaine 7
 Voici trois images qui representent bien le projet final.
 
-![photo](media/kigo_projet_final.jpg)![photo](media/kigo_pointage.jpg)
+![photo](media/kigo_projet_finalv.jpg)![photo](media/kigo_pointagev.jpg)
 
 # Référence
 > **Site web:** https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html
