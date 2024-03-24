@@ -1,10 +1,7 @@
 # Sommaire
 
 ## Thème Crescentia
-Crescentia est le mot latin pour l’évolution. 
-
-Crescentia, qui signifie « croissance » en latin, met de l'avant le concept d'évolution qui apparaît sous plusieurs facettes, que ce soit de manière organique, environnementale, ou encore psychologique. C'est aussi le nom de l'exposition finale des étudiants en techniques d'intégration multimédia du Collège Montmorency dont les œuvres explorent ce concept de plusieurs manières. Ce sont des créations en perpétuel mouvement, qui évoluent et se transforment au gré des actions des visiteurs.
-
+Crescentia est le mot latin pour l’évolution. Il peut s’agir de n’importe quelle évolution, qu’elle soit psychologique ou environnementale, et c’est pourquoi les étudiants de troisième année ont choisi ce mot comme thème. C’est à partir de là qu’ils ont exploité le thème et ont utilisé ses nombreuses significations pour créer leur propre idée par rapport à ce qu'ils ont capté de ceci. Par exemple, le projet de l’effet papillion porte sur la croissance d’un pommier. Ainsi, tous les projets découvrent plus profondément la signification du mot Crescentia et sont représentés de manière unique.
 
 ## Trois cours utile pour créer ce type de projet
 Selon moi le cours de web, d'audio et de programmation sont les trois cours qui sont incontournable pour crée ce genre de projet, car pour chacun 
