@@ -1,1 +1,1 @@
-Ce dossier est pour les photos et videos de l'exposition de Jeremy Shaw.
+Ce dossier est pour les photos prises durant la visite des expositions d'Aude Guivarc'h.
