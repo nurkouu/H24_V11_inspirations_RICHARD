@@ -1,7 +1,4 @@
-# Caverne de Lave
-> *7049 Rue Saint-Urbain QC H2S 3H4*, Montréal, 03-02-24 
-
-## Auteure - Qui est Aude Guivarc'h?
+# Auteure - Qui est Aude Guivarc'h?
 Aude Guivarc'h est une artiste franco-canadienne de Montréal. Elle est réalisatrice ainsi qu'artiste des médias et du numérique, trouvant principalement ses inspirations dans ses passions qui sont la musique, la science et la nature. Pour mener à bien ses projets, Aude utilise abondamment la modélisation 3D, la sculpture, des installations interactives et l'art numérique, ce qui lui permet de captiver l'attention de nombreux spectateurs déjà impliqués 
 dans de nombreux événements tels que OSHEAGA et MUTEK. Son travail se concentre exclusivement sur la durabilité environnementale et la justice sociale. Elle utilise des principes économiques de base tels que le recyclage et la réutilisation pour créer.
 
@@ -12,3 +9,4 @@ Elle a également remporté de nombreux prix pour son travail en 2021. Elle a é
 Enfin, grâce à son esprit créatif et très ouvert, Aude a eu l'opportunité de collaborer et de travailler avec de nombreux grands artistes tels que Billie Eilish, Madonna, Ed Sheeran, Muse et Halsey au fil des années.
 
  ![photo](media/img_aude_g_02.jpg)![photo](media/img_aude_g_01.jpg)
+
