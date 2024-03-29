@@ -10,3 +10,5 @@ Ce qui est unique chez elle, c'est qu'elle utilise des matériaux qu'elle trouve
 Elle a également remporté de nombreux prix pour son travail en 2021. Elle a été récompensée pour l'amélioration et le développement continu de son projet *Ecosystem Alpha* ainsi que pour le mapping vidéo audiovisuel de *Glaciers of Sound*.
 
 Enfin, grâce à son esprit créatif et très ouvert, Aude a eu l'opportunité de collaborer et de travailler avec de nombreux grands artistes tels que Billie Eilish, Madonna, Ed Sheeran, Muse et Halsey au fil des années.
+
+![photo](media/aude_guivarch.jpg)
