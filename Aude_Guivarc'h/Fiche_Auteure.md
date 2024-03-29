@@ -11,4 +11,4 @@ Enfin, grâce à son esprit créatif et très ouvert, Aude a eu l'opportunité d
  ![photo](media/img_aude_g_02.jpg)![photo](media/img_aude_g_01.jpg)
  
 # Ressource
-> **Site** https://guivar.ch/About-Aude
+> **Site: ** https://guivar.ch/About-Aude
