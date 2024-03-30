@@ -5,9 +5,7 @@
 
 ![photo](media/caverne_plan.jpg)
 
-![photo](media/caverne_pre_prod.jpg) 
-
-![photo](media/caverne_mapping.jpg) 
+![photo](media/caverne_pre_prod.jpg)
 
 ![photo](media/caverne_vue_entiere.jpg)
 
