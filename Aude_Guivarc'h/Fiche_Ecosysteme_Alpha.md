@@ -27,7 +27,7 @@ Pour que tout cela se réalise, Aude a dû passer par de nombreuses étapes diff
 
 ### Image descriptif de l'oeuvre
 
-![photo](media/caverne_cartel.jpg)
+![photo](media/alpha_cartel.jpg)
 
 
 ## Expérience générale
