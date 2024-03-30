@@ -4,7 +4,7 @@
 ![photo](media/caverne_vue_entiere.jpg)
 
 ## Description de l'oeuvre
-La *Caverne de Lave*, également connue sous le nom de *Lava Cave* en anglais, est une installation multi-sensorielle dont l'objectif est de présenter l'énergie fondamentale de l'intérieur de la Terre. Ce projet a été réalisé en 2022. L'idée était que les clients viennent s'asseoir sur les roches conçues pour être des sièges et profitent de l'expérience audiovisuelle. Elle a été conçue pour avoir des parties dures et molles qui représentent physiquement la croûte terrestre et la lave, mais en réalité, elle vise à représenter les pouvoirs indéniables de la Terre. L'artiste a utilisé de nombreux composants techniques différents pour réaliser ce projet, et avec l'aide de ses connaissances étendues dans de nombreux domaines, elle a pu le faire seule. Ce projet a été conçu pour être à l'intérieur, évidemment, et temporaire, car malheureusement Age of Union changeait de lieu et fermait définitivement à Montréal.
+La *Caverne de Lave*, également connue sous le nom de *Lava Cave* en anglais, est une installation multi-sensorielle dont l'objectif est de présenter l'énergie fondamentale de l'intérieur de la Terre. Ce projet a été réalisé en 2022. L'idée était que les clients viennent s'asseoir sur les roches conçues pour être des sièges et profitent de l'expérience audiovisuelle. Elle a été conçue pour avoir des parties dures et molles qui représentent physiquement la croûte terrestre et la lave, mais en réalité, elle vise à représenter les pouvoirs indéniables de la Terre. L'artiste a utilisé de nombreux composants techniques différents pour réaliser ce projet, et avec l'aide de ses connaissances étendues dans de nombreux domaines, elle a pu le faire seule. Elle voulait que les gens se sentent comme s'ils étaient entourés dans un lieu différent de notre quotidien, elle voulait que les gens explorent et testent sans savoir exactement comment cela va fonctionner. Ce projet a été conçu pour être à l'intérieur et interactive, évidemment, et temporaire, car malheureusement Age of Union changeait de lieu et fermait définitivement à Montréal.
 
 ![photo](media/caverne_lava_description.jpg)
 
@@ -33,5 +33,14 @@ Sur le site web, il est présenté plus précisement tous les matériaux qui ont
 
 ![photo](media/caverne_cartel.jpg)
 
+
+## Expérience générale
+Il n'y a pas de guides pour expliquer comment tout fonctionne. L'objectif principal derrière le projet est que les visiteurs s'amusent et découvrent comment interagir avec, même s'il peut arriver que des personnes cassent des éléments. C'est ce qu'Aude voulait. Elle voulait vraiment que les gens se sentent entourés dans un endroit inhabituel et comprennent la puissance du noyau interne de notre planète.
+
+## Expérience personnelle
+Personnellement, j'ai beaucoup apprécié, j'ai trouvé cela très relaxant de m'asseoir là et d'essayer de comprendre comment cela fonctionne. Malheureusement, je n'ai pas pu saisir pleinement toutes les capacités du le projet, même si on m'avait donné un indice sur la manière d'interagir avec lui, mais lorsque je suis allé sur le site web, j'ai vu que les lumières pouvaient changer de couleur et devenir plus lumineuses, par exemple. Donc, je pense que Aude a fait un travail formidable avec ce projet et la signification derrière celui-ci.
+
+## Ressource
+> **Source** https://guivar.ch/
 
 
