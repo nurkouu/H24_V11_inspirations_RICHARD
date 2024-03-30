@@ -7,6 +7,8 @@
 Écosystème Alpha est un projet de sculpture interactive de vidéo-mapping créé en 2023. C'est une allégorie de l'état de notre planète et son objectif est de montrer qu'il n'y a pas de planète B après celle-ci. Il utilise précisément le vidéo-mapping pour créer ce qui serait une simulation des quatre saisons et du cycle naturel de la vie. Cela permet aux spectateurs de s'immerger et de vivre le cycle de la vie devant leurs yeux. Cependant, lorsque les spectateurs s'approchent trop près du terrain montagneux, celui-ci commence à s'autodétruire et en fonction de la durée pendant laquelle ils restent dans cette position, il faudra beaucoup de temps pour que la "Terre" reconstruise son bel environnement. Ainsi, de manière très simple, le projet montre comment les humains ont détruit la planète au fil des ans.
 
 ## Types d'installation
+In order to make this all happen, Aude had to go through many different steps. So starting with the design of the surface of the project, she used 3D modeling to print out the sculpture, then for the technical side, she used an interactif system, a kinect 2.0, video mapping that that's already been mentioned before, a 2.0 Kinect, a 4K projector
+
 Sculpture imprimée en 3D, projection vidéo, système interactif
 Filament PLA recyclé post-consommateur provenant de déchets d'emballages alimentaires
 Assemblé sur une planche de particules
