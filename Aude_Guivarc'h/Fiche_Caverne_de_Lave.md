@@ -1,4 +1,4 @@
-# Caverne de Lave
+# Caverne de Lave - Aude Guivarc'h
 > *7049 Rue Saint-Urbain QC H2S 3H4*, Montréal, 03-02-24
  
 ![photo](media/caverne_vue_entiere.jpg)
