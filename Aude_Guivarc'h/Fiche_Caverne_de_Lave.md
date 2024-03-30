@@ -19,17 +19,14 @@ Sur le site web, il est présenté plus précisement tous les matériaux qui ont
 - [ ] Sièges : Carton mousse (récupéré & d'occasion) / Contreplaqué / Béton léger écologique / Fibre de verre / Bandes LED / Transducteurs
 - [ ] Multimédia & Électronique : Serveur multimédia d'occasion / Projecteur / Caisson de basses d'occasion
 
-> **Site web:** https://guivar.ch/Lava-Cave
-
 ### Images du plan de design du projet
 ![photo](media/caverne_pre_prod.jpg)
 
 ![photo](media/caverne_plan.jpg)
 
+> **Source:** https://guivar.ch/Lava-Cave
 
 ### Images descriptif de l'oeuvre
-
-![photo](media/caverne_cartel.jpg)
 
 ![photo](media/caverne_lava_description.jpg)
 
