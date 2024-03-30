@@ -25,5 +25,19 @@ Pour que tout cela se réalise, Aude a dû passer par de nombreuses étapes diff
 ![photo](media/alpha_pendant_destruction.jpg) ![photo](media/alpha_montagne_apres.jpg)
 > *Photos prises par moi*
 
+### Image descriptif de l'oeuvre
+
+![photo](media/caverne_cartel.jpg)
+
+
+## Expérience générale
+Il n'y a pas de guides pour expliquer comment tout fonctionne. L'objectif principal derrière le projet est que les visiteurs s'amusent et découvrent comment interagir avec, même s'il peut arriver que des personnes cassent des éléments. C'est ce qu'Aude voulait. Elle voulait vraiment que les gens se sentent entourés dans un endroit inhabituel et comprennent la puissance du noyau interne de notre planète.
+
+## Expérience personnelle
+Personnellement, j'ai beaucoup apprécié, j'ai trouvé cela très relaxant de m'asseoir là et d'essayer de comprendre comment cela fonctionne. Malheureusement, je n'ai pas pu saisir pleinement toutes les capacités du projet, même si on m'avait donné un indice sur la manière d'interagir avec lui, mais lorsque je suis allé sur le site web, j'ai vu que les lumières pouvaient changer de couleur et devenir plus lumineuses, par exemple. Donc, je pense que Aude a fait un travail formidable avec ce projet et la signification derrière celui-ci.
+
+## Ressource
+> **Source** https://guivar.ch/
+
 
 
