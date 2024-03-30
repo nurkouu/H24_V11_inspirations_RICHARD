@@ -2,6 +2,7 @@
 > *7049 Rue Saint-Urbain QC H2S 3H4*, Montréal, 03-02-24
 
 ![photo](media/alpha_montagne_mauve_rouge.jpg)
+> *Photo prise par moi*
 
 ## Description de l'oeuvre
 Écosystème Alpha est un projet de sculpture interactive de vidéo-mapping créé en 2023. C'est une allégorie de l'état de notre planète et son objectif est de montrer qu'il n'y a pas de planète B après celle-ci. Il utilise précisément le vidéo-mapping pour créer ce qui serait une simulation des quatre saisons et du cycle naturel de la vie. Cela permet aux spectateurs de s'immerger et de vivre le cycle de la vie devant leurs yeux. Cependant, lorsque les spectateurs s'approchent trop près du terrain montagneux, celui-ci commence à s'autodétruire et en fonction de la durée pendant laquelle ils restent dans cette position, il faudra beaucoup de temps pour que la "Terre" reconstruise son bel environnement. Ainsi, de manière très simple, le projet montre comment les humains ont détruit la planète au fil des ans.
@@ -22,6 +23,7 @@ Pour que tout cela se réalise, Aude a dû passer par de nombreuses étapes diff
 
 ![photo](media/alpha_montagne_avant.jpg) ![photo](media/alpha_montagne_pendant.jpg)
 ![photo](media/alpha_pendant_destruction.jpg) ![photo](media/alpha_montagne_apres.jpg)
+> *Photos prises par moi*
 
 
 
