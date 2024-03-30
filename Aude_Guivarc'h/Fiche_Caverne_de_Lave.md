@@ -29,9 +29,7 @@ Sur le site web, il est présenté plus précisement tous les matériaux qui ont
 
 > **Source:** https://guivar.ch/Lava-Cave
 
-### Images descriptif de l'oeuvre
-
-
+### Image descriptif de l'oeuvre
 
 ![photo](media/caverne_cartel.jpg)
 
