@@ -15,7 +15,7 @@ Pour que tout cela se réalise, Aude a dû passer par de nombreuses étapes diff
 
 ### Les composantes techniques
 
-![photo](media/alpha_cables.jpg) ![photo](media/alpha_comp_technique.jpg)
+![photo](media/alpha_comp_technique.jpg) ![photo](media/alpha_cables.jpg) 
 
 ### Avant, pendant et après la destruction
 
