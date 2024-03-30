@@ -17,12 +17,17 @@ Sur le site web, il est présenté plus précisement tous les matériaux qui ont
 
 > **Site web:** https://guivar.ch/Lava-Cave
 
-
-
+### Images du plan de design du projet
 ![photo](media/caverne_pre_prod.jpg)
 
 ![photo](media/caverne_plan.jpg)
 
+
+### Images descriptif de l'oeuvre
+
 ![photo](media/caverne_cartel.jpg)
 
+![photo](media/caverne_lava_description_essai.jpg)
+
+![photo](media/caverne_lumiere_essai.jpg)
 
