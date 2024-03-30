@@ -19,6 +19,8 @@ Pour que tout cela se réalise, Aude a dû passer par de nombreuses étapes diff
 
 ### Avant, pendant et après la destruction
 
-![photo](media/alpha_destruction.jpg) ![photo](media/alpha_montagne_rouge.jpg)
+![photo](media/alpha_montagne_avant.jpg) ![photo](media/alpha_montagne_pendant.jpg)
+![photo](media/alpha_montagne_apres.jpg)
+
 
 
