@@ -13,7 +13,7 @@ Ce projet a utilisé des haut-parleurs pour le son, un projecteur pour le mappin
 
 ![photo](media/caverne_technique.jpg) ![photo](media/caverne_lumiere.jpg) 
 
-![photo](media/caverne_mapping.jpg) 
+![photo](media/caverne_mapping.jpg) ![photo](media/caverne_mur.jpg) 
 
 > **Images des composantes techniques**
 
