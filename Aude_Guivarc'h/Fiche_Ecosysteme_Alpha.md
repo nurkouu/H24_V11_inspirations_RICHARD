@@ -12,6 +12,7 @@ Pour que tout cela se réalise, Aude a dû passer par de nombreuses étapes diff
 ### Conception de la sculpture
 
 ![photo](media/alpha_piece_montagne.jpg)
+> **Source:** https://guivar.ch/Ecosystem-Alpha_v-3-0
 
 ### Les composantes techniques
 
@@ -19,8 +20,8 @@ Pour que tout cela se réalise, Aude a dû passer par de nombreuses étapes diff
 
 ### Avant, pendant et après la destruction
 
-![photo](media/alpha_montagne_avant.jpg) ![photo](media/alpha_montagne_pendant.jpg)
-![photo](media/alpha_montagne_apres.jpg)
+![photo](media/alpha_montagne_avant.jpg) ![photo](media/alpha_pendant_destruction.jpg) 
+![photo](media/alpha_montagne_pendant.jpg) ![photo](media/alpha_montagne_apres.jpg)
 
 
 
