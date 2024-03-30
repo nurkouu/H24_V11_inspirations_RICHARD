@@ -29,5 +29,5 @@ Sur le site web, il est présenté plus précisement tous les matériaux qui ont
 
 ![photo](media/caverne_lava_description.jpg)
 
-![photo](media/caverne_lumiere.jpg)
+![photo](media/caverne_lumiere.jpg) ![photo](media/caverne_technique_essai.jpg)
 
