@@ -7,11 +7,7 @@
 
 ![photo](media/caverne_pre_prod.jpg) 
 
-![photo](media/caverne_lumiere.jpg)
 
-![photo](media/caverne_mapping.jpg)
-
-![photo](media/caverne_technique.jpg)
 
 ![photo](media/caverne_vue_entiere.jpg)
 
