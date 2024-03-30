@@ -30,5 +30,7 @@ Sur le site web, il est présenté plus précisement tous les matériaux qui ont
 
 ![photo](media/caverne_lava_description.jpg)
 
+![photo](media/caverne_lava_plan.jpg)
+
 
 
