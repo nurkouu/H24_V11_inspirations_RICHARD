@@ -1,5 +1,7 @@
 # Caverne de Lave
-> *7049 Rue Saint-Urbain QC H2S 3H4*, Montréal, 03-02-24 
+> *7049 Rue Saint-Urbain QC H2S 3H4*, Montréal, 03-02-24
+
+
 
 ## Description de l'oeuvre
-Caverne de Lave, also known as Lava Cave in english, is a multi-sensory installation that's goal is to present the core energy of the insides of earth. The idea for it was that clients would come and sit on the rocks that are designed to be seats and enjoy the audio-visual experience. It was designed to have hard and soft parts that physically represent the crust but really it's to represent the unequivocal powers of Earth. The artist used so many different technical components to make this project happen and with the help of her really expanded knowledge on a lot of things, she got to do this on her own.
+La *Caverne de Lave*, également connue sous le nom de *Lava Cave* en anglais, est une installation multi-sensorielle dont l'objectif est de présenter l'énergie fondamentale de l'intérieur de la Terre. Ce projet a été réalisé en 2022. L'idée était que les clients viennent s'asseoir sur les roches conçues pour être des sièges et profitent de l'expérience audiovisuelle. Elle a été conçue pour avoir des parties dures et molles qui représentent physiquement la croûte terrestre et la lave, mais en réalité, elle vise à représenter les pouvoirs indéniables de la Terre. L'artiste a utilisé de nombreux composants techniques différents pour réaliser ce projet, et avec l'aide de ses connaissances étendues dans de nombreux domaines, elle a pu le faire seule.
