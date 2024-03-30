@@ -9,4 +9,16 @@
 ## Types d'installation
 Pour que tout cela se réalise, Aude a dû passer par de nombreuses étapes différentes. Pour commencer avec la conception de la surface du projet, elle est allée en studio pour créer la forme réelle de la montagne à concevoir en utilisant la modélisation 3D pour imprimer la sculpture. Ensuite, du côté technique, elle a utilisé un système interactif, un Kinect 2.0 Xbox, le vidéo-mapping et la programmation pour capturer les mouvements et la portée, un projecteur 4K, un système audio stéréo pour le son, et bien sûr un bon ordinateur pour utiliser TouchDesigner. Elle a aussi utilisé un filament PLA recyclé post-consommateur provenant de déchets d'emballages alimentaires. Voici quelques images du tout:
 
+### Conception de la sculpture
+
+![photo](media/alpha_piece_montagne.jpg)
+
+### Les composantes techniques
+
+![photo](media/alpha_cables.jpg) ![photo](media/alpha_comp_technique.jpg)
+
+### Avant, pendant et après la destruction
+
+![photo](media/alpha_destruction.jpg) ![photo](media/alpha_montagne_rouge.jpg)
+
 
