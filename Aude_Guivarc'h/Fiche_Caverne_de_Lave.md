@@ -9,7 +9,7 @@ La *Caverne de Lave*, également connue sous le nom de *Lava Cave* en anglais, e
 ![photo](media/caverne_lava_description.jpg)
 
 ## Types d'installation
-Ce projet a utilisé des haut-parleurs pour le son, un projecteur pour le mapping, des petits capteurs séparés par un type de matériau spécial entre eux, de sorte que lorsqu'ils sont pressés, ils se connectent, ce qui permet au courant électrique de se rendre à l'ordinateur et lui indique qu'il y a eu un contact. Ainsi, en fonction de la force, de la douceur ou de la durée de l'interaction, la réaction sera différente. La cartographie vidéo (mapping video) précise utilise un logiciel, mais selon la guide, Aude a utilisé une version DIY pour cartographier sans utiliser de logiciel. 
+Ce projet a utilisé des haut-parleurs pour le son, un projecteur pour le mapping, des petits capteurs séparés par un type de matériau spécial entre eux, de sorte que lorsqu'ils sont pressés, ils se connectent, ce qui permet au courant électrique de se rendre à l'ordinateur et lui indique qu'il y a eu un contact donc la réaction qui a été programmé va partir. Ainsi, en fonction de la force, de la douceur ou de la durée de l'interaction, la réaction sera différente. La cartographie vidéo (mapping video) précise utilise un logiciel, mais selon la guide, Aude a utilisé une version DIY pour cartographier sans utiliser de logiciel. 
 
 ![photo](media/caverne_technique.jpg) ![photo](media/caverne_lumiere.jpg) 
 
