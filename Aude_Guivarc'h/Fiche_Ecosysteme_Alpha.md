@@ -31,13 +31,13 @@ Pour que tout cela se réalise, Aude a dû passer par de nombreuses étapes diff
 
 
 ## Expérience générale
-Il n'y a pas de guides pour expliquer comment tout fonctionne. L'objectif principal derrière le projet est que les visiteurs s'amusent et découvrent comment interagir avec, même s'il peut arriver que des personnes cassent des éléments. C'est ce qu'Aude voulait. Elle voulait vraiment que les gens se sentent entourés dans un endroit inhabituel et comprennent la puissance du noyau interne de notre planète.
+Le spectateur est invité à s'approcher de l'affichage et peut apprécier de voir les designs se déplacer, changer de couleur et de motifs. Cela les incite à vouloir toucher la sculpture, mais dès qu'ils le font, le projet est programmé pour s'autodétruire.
 
 ## Expérience personnelle
-Personnellement, j'ai beaucoup apprécié, j'ai trouvé cela très relaxant de m'asseoir là et d'essayer de comprendre comment cela fonctionne. Malheureusement, je n'ai pas pu saisir pleinement toutes les capacités du projet, même si on m'avait donné un indice sur la manière d'interagir avec lui, mais lorsque je suis allé sur le site web, j'ai vu que les lumières pouvaient changer de couleur et devenir plus lumineuses, par exemple. Donc, je pense que Aude a fait un travail formidable avec ce projet et la signification derrière celui-ci.
+Personnellement, j'ai aimé l'idée qui se cachait derrière. Je trouve que c'était tellement logique que dès qu'il y a un contact avec la sculpture, la destruction commence, car cela montre vraiment la vérité derrière ce qui se passe dans la réalité. `t c'est que `
 
 ## Ressource
-> **Source** https://guivar.ch/
+> **Source** https://guivar.ch/Ecosystem-Alpha_v-3-0
 
 
 
