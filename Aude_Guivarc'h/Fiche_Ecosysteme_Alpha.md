@@ -34,7 +34,7 @@ Pour que tout cela se réalise, Aude a dû passer par de nombreuses étapes diff
 Le spectateur est invité à s'approcher de l'affichage et peut apprécier de voir les designs se déplacer, changer de couleur et de motifs. Cela les incite à vouloir toucher la sculpture, mais dès qu'ils le font, le projet est programmé pour s'autodétruire.
 
 ## Expérience personnelle
-Personnellement, j'ai aimé l'idée qui se cachait derrière. Je trouve que c'était tellement logique que dès qu'il y a un contact avec la sculpture, la destruction commence, car cela montre vraiment la vérité derrière ce qui se passe dans la réalité. `t c'est que `
+Personnellement, j'ai aimé l'idée qui se cachait derrière. Je trouve que c'était tellement logique que dès qu'il y a un contact avec la sculpture, la destruction commence, car cela montre vraiment la vérité derrière ce qui se passe dans la réalité. Et c'est que les humains sont le principal problème concernant la situation du changement climatique.
 
 ## Ressource
 > **Source** https://guivar.ch/Ecosystem-Alpha_v-3-0
