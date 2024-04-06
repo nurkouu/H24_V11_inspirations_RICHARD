@@ -8,7 +8,7 @@ Elle a également remporté de nombreux prix pour deux de ses travaux en 2021. E
 
 Enfin, grâce à son esprit créatif et très ouvert, Aude a eu l'opportunité de collaborer et de travailler avec de nombreux grands artistes tels que Billie Eilish, Madonna, Ed Sheeran, Muse et Halsey au fil des années.
 
- ![photo](media/img_aude_g_02.jpg)![photo](media/img_aude_g_01.jpg)
+ ![photo](media/img_aude_g_02.jpg)
  
 # Ressource
 > **Site:** https://guivar.ch/About-Aude
