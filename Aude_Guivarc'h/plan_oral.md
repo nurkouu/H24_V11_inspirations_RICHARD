@@ -8,9 +8,10 @@ Quel est l'objectif de votre communication (sujet posé = présentation oeuvre o
 - Les deux expositions présentes étaient appelées *Caverne de Lave* et *Écosystème Alpha* et j'ai l'impression qu'elle a vraiment pris son temps avec *Caverne de Lave*, car je dirais que c'est un projet quand même immersif et interactif, c'est pourquoi je le préfère un peu plus. Cependant, je pense qu'*Écosystème Alpha* a un sens plus profond et puissant malgré sa simplicité apparente.
 
 ## Sujet divisé
-Dans ma présentation, je parlerai des deux expositions d'Aude, mais plus précisément de leurs descriptions, des types d'installations qu'elles proposent, ainsi que de l'expérience générale et mon expérience personnelle mais avant tout je vais parler du réalisatrice.
+Dans ma présentation, je parlerai des deux expositions d'Aude, mais plus précisément de leurs descriptions, leurs fonctions, leurs types d'installations, ainsi que de l'expérience générale et mon expérience personnelle mais avant tout je vais parler du réalisatrice.
 
 # Développement
+Les deux expositions
 
 Informations sur l'oeuvre ou le dispositif multimémia et le lieu d'exposition (Titre, Nom de l'artiste ou de la firme, Année de réalisation, Nom de l'exposition ou de l'événement, Type d'exposition, Lieu de mise en exposition + Infos sur le lieu, Date de votre visite)
  Présentation détaillée de l'oeuvre ou du dispositif multimédia (description, type d'installation, fonction, mise en espace, composantes, éléments)
