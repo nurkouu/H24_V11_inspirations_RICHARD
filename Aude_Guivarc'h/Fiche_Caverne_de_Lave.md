@@ -47,6 +47,9 @@ Il n'y a pas de guides pour expliquer comment tout fonctionne. L'objectif princi
 ## Expérience personnelle
 Personnellement, j'ai beaucoup apprécié, j'ai trouvé cela très relaxant de m'asseoir là et d'essayer de comprendre comment cela fonctionne. Malheureusement, je n'ai pas pu saisir pleinement toutes les capacités du projet, même si on m'avait donné un indice sur la manière d'interagir avec lui, mais lorsque je suis allé sur le site web, j'ai vu que les lumières pouvaient changer de couleur et devenir plus lumineuses, par exemple. Donc, je pense que Aude a fait un travail formidable avec ce projet et la signification derrière celui-ci.
 
+## Appréciation
+Je pense que ce qui m'a plu est le côté créatif dans la manière dont Aude l'a envisagé et l'a concrétisé. Je trouve que la conception a été incroyablement bien réalisée et le message est également intriguant. Ce n'est pas un projet éducatif ennuyeux, c'est plutôt le contraire. Je pense donc qu'Aude a vraiment réussi cette partie. Elle m'a fait regarder l'utilisation des choses cassées d'une manière différente car c'est ce qu'elle a utilisé pour son projet et c'est un succès. Donc, finalement, ce que je retient ce n'est pas vraiment une question de richesse pour obtenir des choses chères à utiliser, mais plutôt une question de richesse d'esprit, et honnêtement, je ne pense pas qu'il y ait quoi que ce soit que j'aurais fait différemment.
+
 ## Ressource
 > **Source** https://guivar.ch/
 
