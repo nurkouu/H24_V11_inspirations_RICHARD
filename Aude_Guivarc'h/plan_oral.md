@@ -1,5 +1,3 @@
-Quel est l'objectif de votre communication (sujet posé = présentation oeuvre ou du dispositif + expérience)
- Quels aspects seront abordés ? (sujet divisé = annoncer les différents points du développement)
 # Introduction
 ## Sujet posé
 - Je prévois de présenter la visite à laquelle j'ai assisté le 2 mars. Elle a eu lieu au centre Age Of Union à Montréal. 
