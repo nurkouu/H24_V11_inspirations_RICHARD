@@ -1,6 +1,6 @@
 # Qui est Aude Guivarc'h?
 
- ![photo](media/img_aude.jpg)  ![photo](media/img_aude_mapping.jpg)
+ ![photo](media/img_aude.jpg)  ![photo](media/img_amapping.jpg)
 
 Aude Guivarc'h est une artiste franco-canadienne de Montréal. Elle est réalisatrice ainsi qu'artiste des médias et du numérique, trouvant principalement ses inspirations dans ses passions qui sont la musique, la science et la nature. Pour mener à bien ses projets, Aude utilise abondamment la modélisation 3D, la sculpture, des installations interactives et l'art numérique, ce qui lui permet de captiver l'attention de nombreux spectateurs déjà impliqués 
 dans de nombreux événements tels que OSHEAGA et MUTEK. Son travail se concentre exclusivement sur la durabilité environnementale et la justice sociale. Elle utilise des principes économiques de base tels que le recyclage et la réutilisation pour créer.
