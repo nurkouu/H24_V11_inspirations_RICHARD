@@ -36,6 +36,9 @@ Le spectateur est invité à s'approcher de l'affichage et peut apprécier de vo
 ## Expérience personnelle
 Personnellement, j'ai aimé l'idée qui se cachait derrière. Je trouve que c'était tellement logique que dès qu'il y a un contact avec la sculpture, la destruction commence, car cela montre vraiment la vérité derrière ce qui se passe dans la réalité. Et c'est que les humains sont le principal problème concernant la situation du changement climatique.
 
+## Appréciation
+Ce que j'ai vraiment aimé dans ce projet, c'est la partie d'interaction. J'ai vraiment apprécié la façon dont il réagissait au contact proche. Quand j'ai entendu un bruit de craquement la première fois que j'ai approché ma main de la structure, j'ai pensé que quelque chose était cassé, mais j'ai vite réalisé que ce n'était pas le cas et que cela représentait la façon dont la Terre réagit au contact humain. Je trouve que c'est une façon si créative et sensible de représenter cela, c'est pourquoi j'aime ça. Encore une fois, je ne changerais rien car je pense que c'était un projet très bien réalisé également.
+
 ## Ressource
 > **Source** https://guivar.ch/Ecosystem-Alpha_v-3-0
 
