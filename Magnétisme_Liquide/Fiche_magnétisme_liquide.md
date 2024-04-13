@@ -1,3 +1,3 @@
-# Magnétisme Liquide
+# Centre des sciences - Magnétisme Liquide
 
 
