@@ -30,6 +30,9 @@ Comme déjà mentionné, l'exposition a eu lieu au Centre des Sciences de Montr�
 
 
 ## Expérience vécue
+Les visiteurs sont invités à tourner une poignée qui est connectée à un gros aimant, et lorsque cela se produit, cela rend le liquide magnétique à l'intérieur du conteneur encore plus attiré vers lui, ce qui le pousse à ignorer la réaction qu'il devrait avoir en fonction du pôle auquel il est dirigé. Cela peut être vu dans la vidéo ci-dessous:
+
+https://github.com/nurkouu/H24_V11_inspirations_RICHARD/assets/143274560/7b86bad7-62b2-4541-8212-a3c36e5215da
 
 ## Expérience personnelle
 
@@ -37,6 +40,10 @@ Comme déjà mentionné, l'exposition a eu lieu au Centre des Sciences de Montr�
 
 ## Site Web
 https://www.centredessciencesdemontreal.com/
+
+
+
+
 
 
 
