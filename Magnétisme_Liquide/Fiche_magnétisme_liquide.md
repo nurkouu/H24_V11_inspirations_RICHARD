@@ -23,7 +23,8 @@ Le Magnétisme Liquide semble être parmi les œuvres qui ont peut-être pris le
 
 
 
-## Le centre (Lieux)
+## Lieu - Centre des Sciences
+Comme déjà mentionné, l'exposition a eu lieu au Centre des Sciences de Montréal le 5 avril 2024.
 ![photo](media/magn_liq_centre_science.jpg)
 
 
