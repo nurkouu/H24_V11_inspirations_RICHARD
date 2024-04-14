@@ -21,7 +21,7 @@
 ## Mise en espace
 Le projet dispose de son propre espace raisonnable sur tout l'étage. Il est placé parmi de nombreuses autres œuvres différentes. Les photos suivantes montreront différentes zones de la section d'exposition sur *L'humain* qui se trouvait à l'étage supérieur du bâtiment.
 
- ![photo](media/expo_entree_explore.jpg)
+![photo](media/expo_entree_humain.jpg) ![photo](media/expo_entree_explore.jpg)
 
 ## Lieu - Centre des Sciences
 Comme déjà mentionné, l'exposition a eu lieu au Centre des Sciences de Montréal le 5 avril 2024. Ce centre est un musée scientifique qui est associé à la Société immobilière du Canada et qui vise à rendre la science accessible à tous en encourageant la connaissance et la culture scientifique et technologique. Il accompagne les visiteurs de tous âges dans la découverte et la compréhension de ces domaines pour les aider à façonner leur avenir.
