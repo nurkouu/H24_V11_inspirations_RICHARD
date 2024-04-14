@@ -14,6 +14,8 @@ Le Magnétisme Liquide semble être parmi les œuvres qui ont peut-être pris le
 
 #### 2. Les poignets et le méchanisme
 ![photo](media/magn_liq_poignets.jpg) ![photo](media/magn_liq_mechanisme.jpg)
+
+#### 3. Les contenants
 ![photo](media/magn_liq_conteneurs.jpg) 
 
 
