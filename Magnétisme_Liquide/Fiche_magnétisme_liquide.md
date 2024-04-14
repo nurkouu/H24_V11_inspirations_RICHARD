@@ -3,4 +3,6 @@
 
 ![photo](media/magn_liq_centre_science.jpg)
 
+![photo](media/magn_liq_centre_science_essai.jpg)
+
 ## Description de l’oeuvre
