@@ -9,7 +9,7 @@ Le Magétisme Liquide est l'une des nombreuses œuvres qui étaient exposées au
 ## Type d'installation
 Le Magnétisme Liquide semble être parmi les œuvres qui ont peut-être pris le moins de temps à organiser, mais cela a certainement nécessité sa part de temps pour être organisé. Ce projet est placé sur une table et est enfermé dans deux petits conteneurs qui sont eux dans un plus gros conteneur transparent. Tout au bout de la table, il y a une caméra dont le but est d'enregistrer et d'illustrer sur un écran à proximité chaque mouvement qui se produit dans les deux plus petits conteneurs du projet et elle est également dans un conteneur transparent pour la protéger. De plus, à l'extrémité opposée de la caméra, juste en dessous de la table, se trouve une espace contenant la partie mécanique du projet. Et c'est là que tout ce qui se passe lorsque la poignée tourne est visible. En d'autres mots, le mécanisme contenu dans cet espèce de boite est responsable du mouvement de l'aimant plus puissant sous la table, ce qui influence le comportement du liquide magnétique dans les conteneurs. Voici quelques images qui démontrent le tout:
 
-##### 1. Les écrans
+#### 1. Les écrans                  #### 2. Le caméra
 ![photo](media/magn_liq_ecrans.jpg) ![photo](media/magn_liq_camera.jpg)
 ![photo](media/magn_liq_poignets.jpg) ![photo](media/magn_liq_mechanisme.jpg)
 ![photo](media/magn_liq_conteneurs.jpg) 
