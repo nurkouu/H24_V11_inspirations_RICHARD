@@ -35,8 +35,7 @@ Les visiteurs sont invités à tourner une poignée qui est connectée à un gro
 https://github.com/nurkouu/H24_V11_inspirations_RICHARD/assets/143274560/7b86bad7-62b2-4541-8212-a3c36e5215da
 
 ## Expérience personnelle
-
-#### Critique (Ce qui m'a plu ou non/amélioration?)
+Personnellement, parmi toutes les œuvres différentes et impressionnantes qui étaient exposées, pour une raison quelconque, j'ai trouvé celle-ci la plus intéressante pour moi. Je pense que c'est parce que j'ai toujours été captivé par le magnétisme d'une certaine manière. J'ai aimé comment nous, en tant que visiteurs, avons pu interagir de manière si simple et comment nous avons pu voir ce que notre interaction faisait sous la table, et aussi j'ai pensé que l'idée de la caméra affichant en gros plan ce qui se passait était également excellente. Enfin, je ne changerais rien car je pense que ce projet était bien réalisé.
 
 ## Site Web
 https://www.centredessciencesdemontreal.com/
