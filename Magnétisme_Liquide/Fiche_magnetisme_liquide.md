@@ -42,6 +42,10 @@ https://www.centredessciencesdemontreal.com/
 
 ### Crédits
 
+![photo](media/magn_liq_credit_01.jpg)
+
+![photo](media/magn_liq_credit_02.jpg)
+
 
 
 
