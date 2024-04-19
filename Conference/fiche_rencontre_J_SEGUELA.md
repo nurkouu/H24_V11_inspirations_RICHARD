@@ -1,7 +1,7 @@
 # Compte-rendu de la conférence sur Rafael Lozano-Hemmer
 #### Nurlika Richard - 04/19/24
 
-![photo](photo_SF_M_Leache_RencontreGaspesie2023.jpg)
+![photo](media/babbage_lovelace_manchester.jpg)
 
 La conférence qui a été présentée le 16 avril 2024 portait sur les travaux du Studio Antimodulaire et sur l'artiste mexicain qui en est à l'origine. L'artiste est né en 1967 et possède une expertise en technologie et en science, c'est pourquoi ses projets sont presque toujours interactifs. Cet homme s'appelle Rafael Lozano-Hemmer et, ce jour-là, son travail était présenté par son registraire, Jade Séguéla. Comme mentionné précédemment, Jade est la seule et unique registraire du Studio Antimodulaire et elle s'occupe de tout l'équipement qui doit être déplacé lors de voyages internationaux. Non seulement qu'elle s'occupe de l'envoi à l'international, mais elle s'occupe également des importations et des exportations, de la logistique, des emballages des œuvres, du design des caisses, de la conservation préventive, du constat d'état, de la documentation, de l'inventaire des œuvres, de la gestion des œuvres en entrepôt et de l'installation des œuvres. Pendant la conférence, Jade a parler d'abord du studio Antimodular et de Rafael Lozano-Hemmer, des oeuvres de celui-ci et de l'interactivité, de son rôle à elle ainsi que son parcours. Et pour le corps de sa présentation, elle a aborder deux études de cas, le premier étant le fait de documenter une exposition d'art numérique et le deuxième était de produire une oeuvre pour une île déserte ce qui était le cas de *Translation Stream*.
 
